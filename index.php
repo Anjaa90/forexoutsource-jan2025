@@ -267,8 +267,9 @@ font-size: 18px;
                         <div class="row">
                             <div class="col-lg-8">
                                 <div class="slider-title-wrapper">
-                                    <h1>Your partner for <br><span class="bold-title-text">support services and </span>robust CRM solutions</h1></div>
-                                       <img class="tagimg" src="imgs/tag 1.png" alt="">
+                                    <h1 style="font-size: 34px;">Run your Forex Brokerage easily with
+                                    <br><span class="bold-title-text">Our Outsourced<br> Support Services </span><br>specially made for FX Industry</h1></div>
+                                       <img class="tagimg" src="imgs\Forex_tag 1.png" alt="">
                                     <!-- <div class="ribbon ribbon1 text-left" >starting from just 2.5$ /per hour</h3> 
                                         <i></i>
                                         <i></i>
@@ -291,8 +292,9 @@ font-size: 18px;
                             <div class="row">
                                 <div class="col-lg-10">
                                     <div class="slider-title-wrapper">
-                                        <p>Simplify brokerage management <br><span class="bold-title-text">with live chat, email,</span><br>and MT4/MT5 tools.</p>
-                                     <img class="tagimg" src="imgs/tag 2.png" alt="">
+                                    <h1 style="font-size: 32px;">Live Chat, Email, Phone Support or Sales,
+                                    <br><span class="bold-title-text">Everything at one place </span><br> for your Forex Brokerage Business</h1>
+                                     <img class="tagimg" src="imgs\Forex_tag 2.png" alt="">
                                         <!-- <div class="ribbon">
                                             <h3 style="font-size: 18px;font-weight: 600;padding: 10px;color: #fff;"> MT4/MT5 Administration starting at just 750$ /per month</h3><i></i><i></i><i></i><i></i>
                                         </div> -->
@@ -312,8 +314,10 @@ font-size: 18px;
                             <div class="row">
                                 <div class="col-lg-10">
                                     <div class="slider-title-wrapper">
-                                        <p>Simplify your <br><span class="bold-title-text">processes and grow  </span><br>with ForexOutsource</p>
-                                     <img class="tagimg" src="imgs/tag 3.png" alt="">
+                                    <h1 style="font-size: 32px;">MT4/ MT5 Server,
+
+                                    <br><span class="bold-title-text"> Administration and <br>Disaster Recovery </span><br>Right from the Experts</h1>
+                                     <img class="tagimg" style="height:170px;" src="imgs\Forex _tag 3.png" alt="">
                                         <!-- <div class="ribbon">
                                             <h3 style="font-size: 18px;font-weight: 600;padding: 10px;color: #fff;">our CRM and BACK-OFFICE services starting from just 999$ /per month</h3> 
                                             <i></i>

@@ -198,7 +198,7 @@ a:hover{
                             <li class="nav-item sub-menu">
                                 <a class="nav-link <?php 
                                 if($page=='live-chat-pricing' || $page=='email-desk-pricing'|| $page=='phone-inbound-pricing'|| $page=='crm-and-back-office-pricing'|| $page=='mt4-mt5-administration-pricing'|| $page=='remote-support-pricing'){echo 'activebtn';}
-                                ?>" href="#"> Packages 
+                                ?>" href="#"> Pricing 
                                 <i class="fa fa-chevron-down"></i>
                                 </a>
                                 <ul class="second-level-sub-menu sub-menus">
@@ -225,37 +225,7 @@ a:hover{
                                     </li>
                                 </ul>
                             </li>
-                            <li class="nav-item sub-menu">
-                                <a class="nav-link <?php
-                                if($page=='forex-whiteLabel' || $page=='broker-website'|| $page=='forex-crm-traders-room'|| $page=='offshore-company'|| $page=='psp-account'){echo 'activebtn';}
-                                ?>" href="#">Our Solutions
-
-                                    <i class="fa fa-chevron-down"></i>
-                                </a>
-                                <ul class="second-level-sub-menu sub-menus">
-                                    <li class="nav-item">
-                                        <a class="nav-link <?php if($page=='forex-whiteLabel') {echo 'active-anchor';} ?>" href="forex-whiteLabel.php">Forex WhiteLabel
-                                        </a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link <?php if($page=='broker-website') {echo 'active-anchor';} ?>" href="broker-website.php">Broker Website </a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link <?php if($page=='forex-crm-traders-room') {echo 'active-anchor';} ?>" href="forex-crm-traders-room.php">Forex CRM & Tradersroom
-                                        </a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link <?php if($page=='offshore-company') {echo 'active-anchor';} ?>" href="offshore-company.php">Offshore Company
-
-                                        </a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link <?php if($page=='psp-account') {echo 'active-anchor';} ?>" href="psp-account.php">PSP Account
-
-                                        </a>
-                                    </li>
-                                </ul>
-                            </li>
+                            
                             <li class="nav-item <?php if($page=='blogs') {echo 'activebtn';} ?>">
                                 <a class="nav-link" href="https://forexoutsource.com/blogs/">Blogs
                                    
