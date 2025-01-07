@@ -185,7 +185,7 @@
                                     <a href="#" class="btn btn-link" data-toggle="collapse" data-target="#collapseOne"
                                         aria-expanded="true" aria-controls="collapseOne">
                                         <i class="fas fa-plus" style="color: #50ff05;"></i>
-                                        What is live chat outsourcing?
+                                        What is Live Chat Outsourcing?
                                     </a>
                                 </h5>
                             </div>
@@ -193,7 +193,8 @@
                             <div id="collapseOne" class="collapse show" aria-labelledby="headingOne"
                                 data-parent="#accordion">
                                 <div class="card-body">
-                                Live chat outsourcing involves contracting a third-party service provider to manage and operate the live chat support function on your website or platform. These providers typically employ trained agents to respond to customer inquiries in real time on your behalf.
+                                Live chat outsourcing involves hiring a third-party provider to manage chat support on your platform. With outsourcing services for Forex brokers, we offer trained agents who handle real-time inquiries, improving customer service and efficiency for your Forex business.
+
 
                                 </div>
                             </div>
@@ -204,7 +205,7 @@
                                     <a href="#" class="btn btn-link collapsed" data-toggle="collapse"
                                         data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                                         <i class="fas fa-plus"></i>
-                                        Is live chat outsourcing suitable for small businesses?
+                                        How Will Live Chat Outsourcing Help My Brokerage?
 
                                     </a>
                                 </h5>
@@ -212,7 +213,8 @@
                             <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo"
                                 data-parent="#accordion">
                                 <div class="card-body">
-                                Yes, live chat outsourcing can benefit businesses of all sizes, including small ones. It allows small businesses to provide excellent customer support without the need for a large in-house team and associated overhead costs, making it a cost-effective solution for startups and SMEs.
+                                Live chat outsourcing boosts client satisfaction by providing real-time support for your Forex brokerage. With outsourcing services for Forex brokers, you cut costs and ensure efficient communication, letting you focus on growing your Forex business.
+
                                 </div>
                             </div>
                         </div>
@@ -223,14 +225,71 @@
                                         data-target="#collapseThree" aria-expanded="false"
                                         aria-controls="collapseThree">
                                         <i class="fas fa-plus"></i>
-                                         Why should I outsource live chat for my forex business?
+                                        What Are the Requirements to Start Live Chat Outsourcing?
+
                                     </a>
                                 </h5>
                             </div>
                             <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
                                 data-parent="#accordion">
                                 <div class="card-body">
-                                Outsourcing live chat can provide cost savings, 24/7 support, specialized expertise, and scalability, allowing you to focus on core business activities.
+                                To start live chat outsourcing for your Forex brokerage, you need a reliable provider, trained agents, secure platforms, and integration with your Forex business systems. ForexOutsource satisfies all your needs and requirements to start, ensuring seamless implementation and support.
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingFour">
+                                <h5 class="mb-0">
+                                    <a href="#" class="btn btn-link collapsed" data-toggle="collapse"
+                                        data-target="#collapseFour" aria-expanded="false"
+                                        aria-controls="collapseFour">
+                                        <i class="fas fa-plus"></i>
+                                        What is the Pricing/Cost for Live Chat Outsourcing?
+
+                                    </a>
+                                </h5>
+                            </div>
+                            <div id="collapseFour" class="collapse" aria-labelledby="headingFour"
+                                data-parent="#accordion">
+                                <div class="card-body">
+                                Get Our Live Chat Services for Your Forex Business Starting from Just $2.5/Per Hour.
+                                </div>
+                            </div>
+                        </div><div class="card">
+                            <div class="card-header" id="headingFive">
+                                <h5 class="mb-0">
+                                    <a href="#" class="btn btn-link collapsed" data-toggle="collapse"
+                                        data-target="#collapseFive" aria-expanded="false"
+                                        aria-controls="collapseFive">
+                                        <i class="fas fa-plus"></i>
+                                        Can I Get 24\7 Support For My Brokerage Business?
+
+                                    </a>
+                                </h5>
+                            </div>
+                            <div id="collapseFive" class="collapse" aria-labelledby="headingFive"
+                                data-parent="#accordion">
+                                <div class="card-body">
+                                Yes, we offer 24/7 support to ensure your Forex business runs smoothly. Whether it's technical support, client queries, or operational issues, our team is always ready to assist, no matter the time zone.
+
+                                </div>
+                            </div>
+                        </div><div class="card">
+                            <div class="card-header" id="headingSix">
+                                <h5 class="mb-0">
+                                    <a href="#" class="btn btn-link collapsed" data-toggle="collapse"
+                                        data-target="#collapseSix" aria-expanded="false"
+                                        aria-controls="collapseSix">
+                                        <i class="fas fa-plus"></i>
+                                        What Quality Do You Have?
+                                    </a>
+                                </h5>
+                            </div>
+                            <div id="collapseSix" class="collapse" aria-labelledby="headingSix"
+                                data-parent="#accordion">
+                                <div class="card-body">
+                                At ForexOutsource, our agents are experts in the FX industry and know all aspects of Forex trading. They deliver professional, efficient support, ensuring high-quality service for your Forex business.
                                 </div>
                             </div>
                         </div>

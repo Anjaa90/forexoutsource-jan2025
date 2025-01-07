@@ -105,5 +105,136 @@
             </div>
         </div>
     </section>
+    <section class="section-lower">
+        <div class="container">
+            <h2 class="text-center">Frequently Asked Questions</h2>
+            <div class="row">
+                <div class="col-12 mb-5">
+                    <div id="accordion">
+                        <div class="card">
+                            <div class="card-header" id="headingOne">
+                                <h5 class="mb-0">
+                                    <a href="#" class="btn btn-link" data-toggle="collapse" data-target="#collapseOne"
+                                        aria-expanded="true" aria-controls="collapseOne">
+                                        <i class="fas fa-plus" style="color: #50ff05;"></i>
+                                        What is Phone Inbound Outsourcing?
+
+                                    </a>
+                                </h5>
+                            </div>
+
+                            <div id="collapseOne" class="collapse show" aria-labelledby="headingOne"
+                                data-parent="#accordion">
+                                <div class="card-body">
+                                Phone inbound outsourcing involves hiring a third-party provider to manage your phone support. Our trained agents handle client calls efficiently, ensuring prompt and professional support for your Forex business, boosting customer service and operational efficiency.
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingTwo">
+                                <h5 class="mb-0">
+                                    <a href="#" class="btn btn-link collapsed" data-toggle="collapse"
+                                        data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                        <i class="fas fa-plus"></i>
+                                        How Will Phone Inbound Outsourcing Help My Brokerage?
+
+                                    </a>
+                                </h5>
+                            </div>
+                            <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo"
+                                data-parent="#accordion">
+                                <div class="card-body">
+                                Phone inbound outsourcing improves client satisfaction by providing efficient, professional phone support for your Forex brokerage. With outsourcing services for Forex brokers, you benefit from multiple timezone support, support at all levels, and multiple language support. This reduces costs, streamlines communication, and ensures prompt responses, allowing you to focus on growing your Forex business.
+
+
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingThree">
+                                <h5 class="mb-0">
+                                    <a href="#" class="btn btn-link collapsed" data-toggle="collapse"
+                                        data-target="#collapseThree" aria-expanded="false"
+                                        aria-controls="collapseThree">
+                                        <i class="fas fa-plus"></i>
+                                        What Are the Requirements to Start Phone Inbound Outsourcing?
+
+                                    </a>
+                                </h5>
+                            </div>
+                            <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
+                                data-parent="#accordion">
+                                <div class="card-body">
+                                To start phone inbound outsourcing for your Forex brokerage, you need a reliable provider, skilled agents, secure phone systems, and integration with your Forex business operations. ForexOutsource satisfies all your needs and requirements, ensuring smooth implementation and ongoing support for seamless customer service.
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingFour">
+                                <h5 class="mb-0">
+                                    <a href="#" class="btn btn-link collapsed" data-toggle="collapse"
+                                        data-target="#collapseFour" aria-expanded="false"
+                                        aria-controls="collapseFour">
+                                        <i class="fas fa-plus"></i>
+                                        What is the Pricing/Cost for Phone Inbound Outsourcing?
+
+                                    </a>
+                                </h5>
+                            </div>
+                            <div id="collapseFour" class="collapse" aria-labelledby="headingFour"
+                                data-parent="#accordion">
+                                <div class="card-body">
+                                Get our Phone Inbound outsourcing services for your Forex business starting from just $2.5 per hour. We offer affordable, high-quality support that enhances your customer service while keeping costs manageable.
+
+                                </div>
+                            </div>
+                        </div><div class="card">
+                            <div class="card-header" id="headingFive">
+                                <h5 class="mb-0">
+                                    <a href="#" class="btn btn-link collapsed" data-toggle="collapse"
+                                        data-target="#collapseFive" aria-expanded="false"
+                                        aria-controls="collapseFive">
+                                        <i class="fas fa-plus"></i>
+                                        Can I Get 24\7 Support For My Brokerage Business?
+                                    </a>
+                                </h5>
+                            </div>
+                            <div id="collapseFive" class="collapse" aria-labelledby="headingFive"
+                                data-parent="#accordion">
+                                <div class="card-body">
+                                Yes, we offer 24/7 support to ensure your Forex business runs smoothly. Whether it's technical support, client queries, or operational issues, our team is always ready to assist, no matter the time zone.
+                                </div>
+                            </div>
+                        </div><div class="card">
+                            <div class="card-header" id="headingSix">
+                                <h5 class="mb-0">
+                                    <a href="#" class="btn btn-link collapsed" data-toggle="collapse"
+                                        data-target="#collapseSix" aria-expanded="false"
+                                        aria-controls="collapseSix">
+                                        <i class="fas fa-plus"></i>
+                                        What Do You Offer In Phone Inbound Outsourcing Services?
+
+                                    </a>
+                                </h5>
+                            </div>
+                            <div id="collapseSix" class="collapse" aria-labelledby="headingSix"
+                                data-parent="#accordion">
+                                <div class="card-body">
+                                We provide L1 and L2 support, KYC management, account opening assistance, and deposit/withdraw support. With multiple timezone support, support at all levels, and multiple language support, we ensure seamless operations and enhanced customer satisfaction for your Forex business.
+
+                                </div>
+                            </div>
+                        </div>
+                       
+
+                </div>
+            </div>
+
+        </div>
+        </div>
+    </section>
 </main>
 <?php include ("footer.php") ?>

@@ -762,7 +762,7 @@
                                         <a href="#" class="btn btn-link" data-toggle="collapse"
                                             data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                                             <i class="fas fa-plus"></i>
-                                            Why Should I Consider Forex Outsourcing?
+                                            What services does ForexOutsource offer for Forex brokers?
                                         </a>
                                     </h5>
                                 </div>
@@ -770,7 +770,7 @@
                                 <div id="collapseOne" class="collapse show" aria-labelledby="headingOne"
                                     data-parent="#accordion">
                                     <div class="card-body">
-                                        Forex outsourcing allows you to leverage professional expertise, streamline operations, and stay compliant with regulatory changes.
+                                    We offer a wide range of outsourcing services for Forex brokers, including back office support, KYC management, AML management, account opening services, reporting, and technical support. We also provide live chat services, Email, and Phone Inbound Services for Forex brokerage, ensuring seamless communication and operational efficiency..
 
                                     </div>
                                 </div>
@@ -782,7 +782,8 @@
                                             <a href="#" class="btn btn-link collapsed" data-toggle="collapse"
                                                 data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                                                 <i class="fas fa-plus"></i>
-                                                Is there a dedicated support team for specific services or products?
+                                                How can ForexOutsource help my Forex business to grow?
+
     
                                             </a>
                                         </h5>
@@ -791,7 +792,8 @@
                                     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo"
                                         data-parent="#accordion">
                                         <div class="card-body">
-                                            ForexOutsource provides dedicated support teams unlike other service providers. These support teams consist of highly trained individuals, always ready to handle all possible setbacks    
+                                        Partnering with ForexOutsource provides expert outsourcing support, reducing complexities, ensuring compliance, and enhancing customer service. With live chat services, Email, and Phone Inbound Services for Forex brokerage, we handle operations while you focus on growing your Forex business.
+    
                                         </div>
                                     </div>
                                 </div>
@@ -802,7 +804,8 @@
                                                 <a href="#" class="btn btn-link collapsed" data-toggle="collapse"
                                                     data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                                                     <i class="fas fa-plus"></i>
-                                                    Why choose outsourcing instead of In-House team?
+                                                    Does ForexOutsource provide 24/7 support for Forex brokers?
+
         
                                                 </a>
                                             </h5>
@@ -811,7 +814,8 @@
                                         <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
                                             data-parent="#accordion">
                                             <div class="card-body">
-                                                Opting for outsourcing you non-core activities an help you to not only save time on finding required experts but also help to save cost by leveraging support teams by the service providers.         
+                                            Yes, we offer 24/7 support to ensure your Forex business runs smoothly. Whether it's technical support, client queries, or operational issues, our team is always ready to assist, no matter the time zone.
+
                                             </div>
                                         </div>
                                     </div>
@@ -822,7 +826,8 @@
                                                     <a href="#" class="btn btn-link collapsed" data-toggle="collapse"
                                                         data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
                                                         <i class="fas fa-plus"></i>
-                                                        What are the prices for services provided by forexoutsource?
+                                                        Can ForexOutsource handle multiple languages and timezones?
+
             
                                                     </a>
                                                 </h5>
@@ -831,11 +836,8 @@
                                             <div id="collapseFour" class="collapse" aria-labelledby="headingFour"
                                                 data-parent="#accordion">
                                                 <div class="card-body">
-                                                    Our Live Chat and Email Desk services start from $2.5/per hour,
-                                                    Our Phone Inbound services start from $2.5/per hour
-                                                    CRM and Back-office facility can be made available starting from $500/per month
-                                                    MT4/MT5 administration service starts at $500/month 
-                                                    While Remote Support services are provided on instance basis.
+                                                Yes, our team offers multiple language support and operates across different time zones to provide seamless assistance to clients worldwide. This ensures that your Forex business remains responsive to global clients at all times.
+
                                                 </div>
                                             </div>
                                         </div>

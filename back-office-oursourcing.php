@@ -227,14 +227,15 @@
                                     <a href="#" class="btn btn-link collapsed" data-toggle="collapse"
                                         data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
                                         <i class="fas fa-plus"></i>
-                                        What is CRM, and why do businesses need it?
+                                        What is Back Office Outsourcing?
                                     </a>
                                 </h5>
                             </div>
                             <div id="collapseOne" class="collapse" aria-labelledby="headingOne"
                                 data-parent="#accordion">
                                 <div class="card-body">
-                                    CRM, or Customer Relationship Management, is a strategic approach and technology that businesses use to manage and improve interactions with their customers. It centralizes customer data, streamlines processes, and enhances customer engagement. Businesses need CRM to foster stronger customer relationships, boost sales, enhance customer service, and make data-driven decisions, ultimately driving growth and competitiveness.
+                                Back office outsourcing involves hiring a third-party provider to manage administrative and operational tasks for your Forex business. Our trained team handles essential functions such as KYC management, account opening, compliance support, and reporting, ensuring smooth operations, reduced costs, and improved efficiency.
+
                                 </div>
                             </div>
                         </div>
@@ -245,14 +246,15 @@
                                     <a href="#" class="btn btn-link collapsed" data-toggle="collapse"
                                         data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                                         <i class="fas fa-plus"></i>
-                                        How can a CRM system benefit my business?
+                                        How Will Back Office Outsourcing Help My Brokerage?
+
                                     </a>
                                 </h5>
                             </div>
                             <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo"
                                 data-parent="#accordion">
                                 <div class="card-body">
-                                    A CRM system can benefit your business by improving customer relationships, leading to increased customer satisfaction and loyalty, while also streamlining sales and marketing processes, resulting in higher sales efficiency and revenue growth.
+                                Back office outsourcing streamlines essential tasks like KYC management, account opening, and compliance support. With multiple timezone and language support, it reduces costs and improves efficiency, allowing you to focus on growing your Forex business.
 
                                 </div>
                             </div>
@@ -264,25 +266,14 @@
                                         data-target="#collapseThree" aria-expanded="false"
                                         aria-controls="collapseThree">
                                         <i class="fas fa-plus"></i>
-                                       What are the key features of your CRM software?
+                                        What Are the Requirements to Start Back Office Outsourcing?
                                     </a>
                                 </h5>
                             </div>
                             <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
                                 data-parent="#accordion">
                                 <div class="card-body">
-                                    Here are some of the prominent features of a crm software
-                                    <ol class="faq-ol" style="margin-left: -22px;">
-                                       <li>Contact Management</li> 
-                                       <li>Sales Automation</li> 
-                                       <li>Analytics and Reporting</li> 
-                                       <li>Marketing Automation</li> 
-                                       <li>  Customization Options</li> 
-                                  
-                                    </ol>
-
-
-
+                                To start back office outsourcing for your Forex brokerage, you need a reliable provider, skilled agents, secure systems, and integration with your Forex business operations. ForexOutsource meets all your requirements, ensuring smooth implementation and continuous support for seamless operations.
 
                                 </div>
                             </div>
@@ -293,7 +284,7 @@
                                     <a href="#" class="btn btn-link collapsed" data-toggle="collapse"
                                         data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
                                         <i class="fas fa-plus"></i>
-                                       What is Back Office Management?
+                                        What is the Pricing/Cost for Back Office Outsourcing?
 
                                     </a>
                                 </h5>
@@ -301,7 +292,8 @@
                             <div id="collapseFour" class="collapse" aria-labelledby="headingFour"
                                 data-parent="#accordion">
                                 <div class="card-body">
-                                    Back office management refers to the behind-the-scenes tasks and operations that keep a business running smoothly. It includes administrative responsibilities like record-keeping, data entry, compliance monitoring, and financial reporting. In simpler terms, it's the work done "behind the scenes" to support a company's day-to-day operations and ensure things run efficiently and compliantly.
+                                back-office services, starting from just $999 per month. Our services are tailored to meet the specific needs of Forex brokers, helping you streamline operations and reduce costs while maintaining compliance and efficiency.
+
 
 
                                 </div>
@@ -314,14 +306,15 @@
                                 <a href="#" class="btn btn-link collapsed" data-toggle="collapse"
                                     data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
                                     <i class="fas fa-plus"></i>
-                                    Why is Back Office Management important for forex businesses?
+                                    Can I Get 24\7 Support For My Brokerage Business?
 
                                 </a>
                             </h5>
                         </div>
                         <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
                             <div class="card-body">
-                                Back Office Management is crucial for forex businesses as it ensures accurate record-keeping, compliance with stringent industry regulations, and efficient trade reconciliation. It helps maintain trust among clients, minimizes errors, and safeguards against financial risks, all of which are paramount in the high-stakes world of forex trading.
+                            Yes, we offer 24/7 support to ensure your Forex business runs smoothly. Whether it's technical support, client queries, or operational issues, our team is always ready to assist, no matter the time zone.
+
 
 
                             </div>
@@ -333,7 +326,8 @@
                                 <a href="#" class="btn btn-link collapsed" data-toggle="collapse"
                                     data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
                                     <i class="fas fa-plus"></i>
-                                    What specific services are included in your Back Office Management offering? 
+                                    What Do You Offer in Back Office Outsourcing Services?
+
 
 
                                 </a>
@@ -341,16 +335,8 @@
                         </div>
                         <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordion">
                             <div class="card-body">
-                                <p>Here are some of the notable services provided by ForexOutsource for backoffice management
-                                </p>
-                                <ol>
-                                    <li><b>Accounting and Financial Reporting: </b><span>Managing transactions, reconciling accounts, and generating reports for compliance and decision-making.</span></li>
-                                    <li><b>Risk Management: </b><span>Assessing and managing currency trading risks, including exposure, margins, and risk mitigation.</span> </li>
-                                    <li><b>Trade Settlement and Confirmation: </b><span>Confirming and settling trades, recording transactions, and handling fund transfers.                                    </span> </li>
-                                    <li><b>Regulatory Compliance: </b><span> Ensuring adherence to strict forex regulations, reporting, and AML procedures.</span></li>
-                                    <li><b>Customer Support and Account Maintenance: </b><span>Handling inquiries, maintaining accounts, and managing documentation, deposits, and withdrawals.
-                                    </span></li>
-                                </ol>
+                            We provide essential back office outsourcing services for Forex brokers, including account opening support, KYC management, reporting, risk management profiling, and AML management. These services streamline your operations and ensure compliance, allowing you to focus on growing your Forex business.
+
 
                             </div>
                         </div>
