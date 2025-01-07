@@ -186,7 +186,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-font-size: 18px;    
+    font-size: 18px;    
     font-weight: 600;
     margin-top: 0px;color: #fff;
 }
@@ -347,7 +347,7 @@ font-size: 18px;
                                     <i class="fa-solid fa-comment"></i>
                                 </span>
                                 <h3>Live Chat and Email Desk</h3>
-                                <p>We offer <a class="internal-linking" href="https://forexoutsource.com/live-chat.php">Live Chat</a> and Email Desk Services, ensuring exceptional Customer support and Efficient Communication Solutions for Businesses. 
+                                <p>We offer <a class="internal-linking" href="https://forexoutsource.com/live-chat.php">Live Chat</a> and Email Desk Services,  ensuring exceptional Customer support and Efficient Communication Solutions for Forex Businesses.
                                 </p>
                             </div>
                         </div>
@@ -357,7 +357,7 @@ font-size: 18px;
                                     <i class="fa-solid fa-headset"></i>
                                 </span>
                                 <h3>Phone Inbound</h3>
-                                <p>Connect with your customers seamlessly with our <a class="internal-linking" href="https://forexoutsource.com/phone-inbound.php">Phone Inbound</a> Services to enhance communication and boost customer satisfaction. Experience the difference today!
+                                <p style="font-size:14px;">Connect with your customers seamlessly with our <a class="internal-linking" href="https://forexoutsource.com/phone-inbound.php">Phone Inbound</a> Services designed specifically for Forex Businesses and Forex Brokerages. Enhance communication, boost customer satisfaction, and elevate your brand experience.
                                 </p>
                             </div>
                         </div>
@@ -367,8 +367,7 @@ font-size: 18px;
                                     <i class="fa-solid fa-chart-simple"></i>
                                 </span>
                                 <h3>MT4/MT5 Administration</h3>
-                                <p>ForexOutsource excels in MT4/MT5 Administration, ensuring smooth and efficient operation of your forex trading platform. 
-
+                                <p style="font-size:14px;">ForexOutsource specializes in MT4/MT5 Administration, guaranteeing smooth and efficient operations for your forex trading platform. Let us handle the technical complexities while you focus on growing your Forex Brokerage! 
                                 </p>
                             </div>
                         </div>
@@ -389,10 +388,10 @@ font-size: 18px;
     </div>
     <div class="card-body">
         <ul>
-            <li><img src="imgs/check-mark (1).png" alt="" style="height: 35px;margin-right: 10px;">Dedicated Support Team at your disposal</li>
-            <li><img src="imgs/check-mark (1).png" alt="" style="height: 35px;margin-right: 10px;"> Real People Real Names</li>
-            <li> <img src="imgs/check-mark (1).png" alt="" style="height: 35px;margin-right: 10px;">Experts and Professionals to handle all tasks efficiently</li>
-            <li> <img src="imgs/check-mark (1).png" alt=""style="height: 35px;margin-right: 10px;">Physical working space</li>
+            <li><img src="imgs/check-mark (1).png" alt="" style="height: 35px;margin-right: 10px;">Dedicated Support Team at Your Disposal</li>
+            <li><img src="imgs/check-mark (1).png" alt="" style="height: 35px;margin-right: 10px;"> Real People, Real Names</li>
+            <li> <img src="imgs/check-mark (1).png" alt="" style="height: 35px;margin-right: 10px;">Trained Professionals from the Forex Industry to handle all tasks efficiently</li>
+            <li> <img src="imgs/check-mark (1).png" alt=""style="height: 35px;margin-right: 10px;">Physical Working Space for enhanced reliability and productivity</li>
             </ul>
     </div>
 </div>
@@ -432,7 +431,7 @@ font-size: 18px;
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="card-fonts feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center white-card">
                             <i class="fa-solid fa-business-time" style="color: #6cf483;"></i>
-                            <h3>Supercharge your Business Efficiency with Time-Saving Forex Outsourcing Solutions
+                            <h3 style="font-size:13px;">Supercharge your Business Efficiency with Time-Saving Forex Outsourcing Solutions tailored for Forex Brokers!
                             </h3>
                             
                             
@@ -492,7 +491,7 @@ font-size: 18px;
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center white-card">
                             <i class="fa-solid fa-scale-balanced"></i>
-                            <h3>We provide flexible forex solutions to help businesses scale with confidence 
+                            <h3 style="font-size:13px;">We provide flexible forex solutions to help Forex businesses scale with confidence and achieve their goals seamlessly.
                             </h3>
                             
                            
@@ -505,17 +504,18 @@ font-size: 18px;
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-10">
-                        <h2 >How Outsourcing Can Help You Gain <span class="bold-text-title">Seamless Advantage In The Forex Market </span></h2>
+                        <h2 >How Outsourcing Can Help You Gain<span class="bold-text-title">Seamless Advantage In The Forex Market</span></h2>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-md-6">
                         <p>
-                            Starting your own Forex Brokerage  can result in a lot of complexities including higher initial costs, unavailability of required professionals or inefficiency to handle excess client queries. Our Company's services address these challenges. We empower you to focus on core operations while we handle the non-core ones for you. Our technology-driven approach streamlines operations with automated systems and insightful analytics. Opting for outsourcing services can help you to gain a competitive advantage and elevate your performance to new heights in the ever-evolving forex market, along with saving both time and money.
+                        Starting your own Forex Brokerage can result in numerous complexities, including higher initial costs, lack of trained professionals, or inefficiency in managing excess client queries. Our company's services are designed to address these challenges, empowering Forex Businesses to focus on their core operations while we manage the non-core ones.
+                        With our technology-driven approach, we streamline operations through automated systems and insightful analytics, ensuring your Forex Business stays ahead in the competitive FX Industry. By opting for our outsourcing services, you can save time and money, gain a competitive edge, and elevate your performance to new heights in the ever-evolving forex market.
 
                         </p>
                         <br>
-                        <h5>ForexOutsource provides solutions to all your brokerage setbacks, all in one place – 
+                        <h5>ForexOutsource provides comprehensive solutions to all your Forex Brokerage challenges—all in one place! 
                         </h5><br>
                         <ul>
                             <li><i class="fas fa-long-arrow-alt-right"></i> Live Chat and <a class="internal-linking" href="https://forexoutsource.com/email-desk.php">Email Desk</a> for handling all your client queries.

@@ -187,7 +187,7 @@
                             <img src="imgs/prixim global logo.webp"
                                 alt="Footer Logo" width=200>
                         </a>
-                        <p>Prixim Global is a Leading Provider of Business Process Management (BPM) and Information Technology (IT) FinTech services. We help our clients streamline their business processes and operations through the use of innovative technology solutions.</p>
+                        <p>Prixim Global is a Leading Provider of Forex Technology, Corporate Consulting, Forex Brokerage Licensing and Business Outsourcing Services. We help our B2B Clients in Forex Industry to set up their business, streamline their  processes and operations through the use of offered services & solutions.</p>
                     </div>
                     <div class="footer-disclaimer " >
                    

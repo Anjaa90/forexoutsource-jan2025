@@ -33,7 +33,7 @@
                         <span class="bold-text-title"> CRM Solutions</span>
                     </h2>
                     <p>
-                        Our approach to delivering Customer Relationship Management (CRM) Services is deeply rooted in client-centricity. We meticulously assess our clients' requirements and study their behavioral patterns to tailor robust CRM solutions. This process is not merely a technical endeavor but a business philosophy, enabling us to provide highly customized and effective CRM software solutions aligned with our clients' specific needs and preferences.
+                    Our approach to delivering back office outsourcing services is deeply rooted in client-centricity. We meticulously assess our clients' requirements and study their business needs to tailor robust solutions. This process is not merely a technical endeavor but a business philosophy, enabling us to provide highly customized and effective back-office support that aligns with our clients' specific needs and preferences. With outsourcing for Forex brokers and support with outsourcing, we ensure your Forex business operates smoothly, enhancing operational efficiency and client satisfaction.
 
                     </p>
                 </div>
@@ -51,33 +51,33 @@
                 <div class="col-12 col-lg-6 pt-4">
                     <div class="process-wrapper primary-bg">
                         <span class=" icon-box">
-                        <i class="fa-solid fa-compass"></i>
+                        <i class="fa-solid fa-user-gear"></i>
                         </span>
-                        <h3>Tailored Solutions
+                        <h3>Account Opening Support
                         </h3>
-                        <p>Our CRM software is highly customizable, allowing you to tailor it precisely to your specific business requirements, ensuring it aligns perfectly with your unique processes and needs.
+                        <p>We provide secure account opening and back office services for Forex brokers, streamlining client onboarding and improving your Forex business with our outsourcing support.
                         </p>
                     </div>
                 </div>
                 <div class="col-12 col-lg-6 pt-4">
                     <div class="process-wrapper dark-bg">
                         <span class="icon-box">
-                        <i class="fa-solid fa-user-group"></i>
+                        <i class="fa-solid fa-id-card"></i>
                         </span>
-                        <h3>User-Friendly
+                        <h3>KYC Management
                         </h3>
-                        <p>Our user-friendly interface ensures that your team can quickly adopt and leverage the CRM system to its fullest potential, reducing the learning curve and boosting productivity.
+                        <p>Our back office services provide efficient KYC management for Forex brokers, ensuring compliance and smooth onboarding with outsourcing support to grow your Forex business.
                         </p>
                     </div>
                 </div>
                 <div class="col-12 col-lg-6 pt-4">
                     <div class="process-wrapper white-bg">
                         <span class="icon-box">
-                        <i class="fa-solid fa-link"></i>
+                        <i class="fa-solid fa-chart-line"></i>
                         </span>
-                        <h3>Robust Features
+                        <h3>Reporting for Business Owners
                         </h3>
-                        <p>Benefit from a comprehensive range of features that empower your business, including contact management, sales automation, analytics, and more. These robust features are designed to streamline your operations.
+                        <p>Our reporting services for Forex business owners provide real-time data on key metrics and trends. With outsourcing support for Forex brokers, we deliver accurate insights to drive business growth.
                         </p>
                     </div>
                 </div>
@@ -85,11 +85,11 @@
                 <div class="col-12 col-lg-6 pt-4">
                     <div class="process-wrapper primary-bg">
                         <span class=" icon-box">
-                        <i class="fa-solid fa-chart-column"></i>
+                        <i class="fa-solid fa-shield-halved"></i>
                         </span>
-                        <h3>Real-time Insights  </h3>
+                        <h3>Risk Management Profiling </h3>
                         <p>
-                            Make informed decisions with real-time data and analytics that provide valuable insights into your business's performance. Stay ahead of your competition by having access to up-to-the-minute information.
+                        Our risk management profiling helps Forex brokers assess and mitigate risks in their operations. With outsourcing support for Forex brokers, we offer tailored solutions to ensure the safety and stability of your Forex business.
                         </p>
                     </div>
                 </div>
@@ -98,9 +98,9 @@
                         <span class="icon-box">
                             <i class="fa-solid fa-headset""></i>
                         </span>
-                        <h3>Dedicated Support
+                        <h3>Technical Issues Support for Forex Brokers
                         </h3>
-                        <p>Rest easy knowing that our expert support team is available 24/7 to assist you with any questions or issues that may arise. We're committed to ensuring your CRM experience is smooth and trouble-free.
+                        <p>We provide comprehensive technical support services for Forex brokers, swiftly resolving technical issues to minimize disruptions. Our team offers tailored solutions to enhance platform performance, streamline operations, and improve the overall trading experience.
                         </p>
                     </div>
                 </div>
@@ -108,11 +108,12 @@
                 <div class="col-12 col-lg-6 pt-4">
                     <div class="process-wrapper white-bg">
                         <span class=" icon-box">
-                            <i class="fa-solid fa-chart-simple"></i>
+                        <i class="fa-solid fa-user-lock"></i>
                         </span>
-                        <h3>Scalability </h3>
-                        <p>Our CRM services grow with your business. Whether you're a startup or an enterprise, our solutions can scale to accommodate your evolving needs, ensuring long-term value and adaptability.
-                        </p>
+                        <h3>AML (Anti-Money Laundering) Management
+                        </h3>
+                        <p>At ForexOutsource, we offer AML management services for Forex brokers, ensuring compliance and security. Our outsourcing support for Forex brokers streamlines AML processes, protecting your Forex business.
+                        </p><br>
                     </div>
                 </div>
 

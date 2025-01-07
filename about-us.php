@@ -27,21 +27,28 @@
         <div class="container">
             <div class="row">
             <div class="col-md-6 aos-init aos-animate" data-aos="zoom-in-left">
-                    <img src="imgs/forexoutsource design 1.webp " class="img-fluid" alt="Outsourcing Forex Support" style="margin-top: -40px;">
-                </div>    
-            <div class="col-md-6">
-                    <h2 class="text-left">Outsourcing Excellence for
-                       <span class="bold-text-title"> Forex Success</span>
-                    </h2>
-                    <p>
-                    At ForexOutsource, we understand that success in the world of Forex trading requires not just skill and knowledge but also a reliable support system that stands by you every step of the way. We are proud to be your trusted partner in delivering comprehensive Forex <a class="internal-linking" href="https://forexoutsource.com/live-chat.php">outsourcing</a> services that empower you to excel in the dynamic and ever-evolving Forex market.
-                    <br><br>With our expert guidance and innovative solutions, you can navigate the complexities of Forex brokerage with confidence and achieve your financial goals.
-
-                </p>
-                </div>
+            <img src="imgs/about-us-2-image.webp" class="img-fluid img-size" alt="Forex Outsourcing Experts" style="padding-left: 36px;">
+            </div>    
+            
+            <div class="col-lg-6 order-2 order-lg-1">
+                <br>
+                        <span class="top-sub-heading">Who We Are</span>
+                        <h2 class="text-left"><span class="bold-text-title">About</span> Prixim Global</h2>
+                        <p>We are a leading provider of Business Process Management (BPM) and IT FinTech services, specializing in delivering tailored solutions for the Forex and FinTech industries. With a deep understanding of industry-specific needs, we offer innovative and effective services that cater to businesses across all types of industries. Whether you're in Forex trading, finance, or any other sector, we provide scalable solutions to streamline your operations and drive success.
+                        </p><br>
+                        <p>Key services include:</p>
+                        <br>
+                        <ul>
+                            <li><i class="fas fa-long-arrow-alt-right"></i> Navigate Forex Challenges with Proven Excellence.</li>
+                            <li><i class="fas fa-long-arrow-alt-right"></i> Your Forex Partner for Success.</li>
+                            <li><i class="fas fa-long-arrow-alt-right"></i> Experts in Forex Outsourcing Solutions.</li>
+                        </ul>
+                        
+            </div>
                 
             </div>
         </div>
+        </div> 
     </section>
 <style>
     .bg-all {
@@ -137,26 +144,22 @@
         <section class="op-section-content">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-6 order-2 order-lg-1">
-                        <span class="top-sub-heading">Who We Are</span>
-                        <h2 class="text-left"><span class="bold-text-title">About</span> our company</h2>
-                        <p>
-                        ForexOutsource is a leading name in the world of Forex Outsourcing Industry.
-                        We have been at the forefront of the industry, serving as a beacon of reliability and excellence.
-                        Our team of seasoned professionals brings a wealth of
-                        knowledge and experience to the table, making us the go-to choice for Forex brokers around the globe.
-                        </p>
-                        <ul>
-                            <li><i class="fas fa-long-arrow-alt-right"></i> Navigate Forex Challenges with Proven Excellence.</li>
-                            <li><i class="fas fa-long-arrow-alt-right"></i> Your Forex Partner for Success.</li>
-                            <li><i class="fas fa-long-arrow-alt-right"></i> Experts in Forex Outsourcing Solutions.</li>
-                        </ul>
-                        
-                    </div>
+                <div class="col-md-6">
+                    <h2 class="text-left">Outsourcing Excellence for
+                       <span class="bold-text-title"> Forex Success</span>
+                    </h2>
+                    <p>
+                    At ForexOutsource, we understand that success in the world of Forex trading requires not just skill and knowledge, but also a reliable support system that stands by you every step of the way. We are proud to be your trusted partner in delivering comprehensive Forex <a class="internal-linking" href="https://forexoutsource.com/live-chat.php">outsourcing</a> services that empower you to excel in the dynamic and ever-evolving FX industry.
+                    
+                    <br><br>With our expert guidance and innovative solutions, you can navigate the complexities of Forex brokerage.
+                    <br>
+                    Forex business with confidence, achieving your financial goals while staying ahead in the competitive Forex market.
+                     </p>
+            </div>
                     <div class="col-lg-6 d-flex order-1 order-lg-1 mb-5 mb-lg-0" data-aos="zoom-in-left">
                         <!-- <div class="about-image-wrapper">                            
                         </div> -->
-                        <img src="imgs/about-us-2-image.webp" class="img-fluid img-size" alt="Forex Outsourcing Experts">
+                        <img src="imgs/forexoutsource design 1.webp " class="img-fluid" alt="Outsourcing Forex Support" style="margin-top: -40px;">
                     </div>
                 </div>
             </div>
@@ -219,7 +222,7 @@
                         </span>
                         <h3>Industry-leading Expertise
                         </h3>
-                        <p>Our team consists of industry experts who stay up-to-date with the ever-changing forex landscape. We have a deep understanding of the market and its intricacies, allowing us to provide tailored solutions that meet your specific requirements.
+                        <p>Our team of industry experts stays up-to-date with the evolving FX industry, offering tailored solutions for your Forex business and Forex brokerage. With a deep understanding of market intricacies, we provide effective strategies to help you succeed in the competitive Forex market.
                         </p><br>
                     </div>
                 </div>
@@ -229,10 +232,8 @@
                             <i class="fa-solid fa-hand-holding-dollar"></i>
                         </span>
                         <h3>Cost-effective Approach</h3>
-                        <p>
-                        By Outsourcing your forex operations to us, you can significantly reduce your overhead costs.
-                        We offer competitive pricing models, allowing you to optimize your resources and allocate them to
-                        other crucial aspects of your business.<br><br>
+                        <p style="font-size:15px;">
+                        By outsourcing your Forex operations to us, you can significantly reduce overhead costs. We offer competitive pricing models tailored for the FX industry, helping you optimize resources and allocate them to other crucial aspects of your Forex businessThis enables you to focus on growing your business while we handle the operational complexities.<br>
                                                 
                     </p>
                     </div>
@@ -245,7 +246,7 @@
                         <h3>Robust Technology
                         </h3>
                         <p>
-                        We utilize cutting-edge software and tools to streamline your forex operations. Our advanced technology stack ensures accuracy, security, and efficiency in all processes, enabling you to focus on your core business activities while we handle the complexities of forex management.
+                        We utilize cutting-edge software and tools to streamline your Forex operations. Our advanced technology stack ensures accuracy, security, and efficiency in all processes, enabling you to focus on your core business activities in the FX industry while we handle the complexities of Forex management for your Forex business
                         </p>
                     </div>
                 </div>
@@ -256,9 +257,9 @@
                         <i class="fa-solid fa-handshake"></i>
                         </span>
                         <h3>Commitment to Excellence</h3>
-                        <p>
-                        At ForexOutsource Company, excellence is at the core of everything we do. We take pride in delivering outstanding customer service and maintaining strong relationships with our clients. With our dedicated support team, we are readily available to address any concerns
-                        </p><br>
+                        <p style="font-size:14px;">
+                        At ForexOutsource Company, excellence is at the core of everything we do. We take pride in delivering outstanding customer service and maintaining strong relationships with our clients in the FX industry. With our dedicated support team, we are readily available to address any concerns and offer tailored solutions to meet the unique needs of your Forex business
+                        </p>
                     </div>
                 </div>
 
@@ -269,10 +270,8 @@
                         </span>
                         <h3>Customized Solutions
                         </h3>
-                        <p>
-                        We believe that every business has unique needs. Therefore, we work closely with our clients to understand
-                        their goals and challenges and deliver customized solutions that align with their objectives.
-                        With ForexOutsource Company as your outsourcing partner, you can expect personalized strategies that drive success.
+                        <p style="font-size:14px;">
+                        We believe that every business has unique needs. Therefore, we work closely with our clients in the FX industry to understand their goals and challenges, delivering customized solutions that align with their objectives. With ForexOutsource Company as your outsourcing partner, you can expect personalized strategies for your Forex business that drive success.
                         </p>
                     </div>
                 </div>
@@ -284,7 +283,7 @@
                         <h3>Compliance
                         </h3>
                         <p>
-                        Compliance with regulatory requirements is crucial in the forex industry. Our knowledgeable compliance team ensures that our clients adhere to all relevant regulations and industry standards, providing peace of mind and mitigating potential legal complications.
+                        Compliance with regulatory requirements is crucial in the FX industry. Our experienced compliance team ensures that our clients in Forex business stay fully compliant with all relevant regulations and industry standards, offering peace of mind and minimizing legal risks.
                         </p>
                     </div>
                 </div>

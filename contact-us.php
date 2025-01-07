@@ -150,6 +150,7 @@ if (@mail($email_to, $email_subject, $email_message, $headers))
                             <h4>Prixim Analytics EU Ltd</h4>
                             <p>Office 71-75, Shelton Street, Covent Garden, <br> London, WC2H 9JQ</p>
                             <a href=""><i class="fa-solid fa-phone"></i>(+44) 20 36952310</a>
+                            <br>
                         </div>
                     </div>
                     <div class="col-12 col-md contact-col">
@@ -180,6 +181,7 @@ if (@mail($email_to, $email_subject, $email_message, $headers))
                             <h3>APAC Relationship Center</h3>
                             <p>Awfis, 2nd Floor, Vishwaroop IT Park, Vashi, Navi Mumbai, 400703</p>
                             <a href=""><i class="fa-solid fa-phone"></i>+971544335310</a>
+                            <br>
                         </div>
                     </div>
                     <!-- <div class="col-12 col-md contact-col">

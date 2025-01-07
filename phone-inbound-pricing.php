@@ -27,11 +27,10 @@
                             <div class="image-wrapper">
                                 <img src="imgs/incoming-call.png" alt="Team Member">
                             </div>
-                            <h3><a href="#">Phone Inbound Support services are provided on  <br>
-
+                            <h3><a href="#">Phone Inbound Support services For Your Forex Business<br>
                                <span> HOURLY BILING </span>basis.</a></h3>
-                            
-                            <p>Maximise your business efficiency with our Phone Inbound Support starting from just</p>
+                            <p>Maximise your forex business efficiency with our Phone Inbound Support starting from just
+                            </p>
                             <div class="mb-3">
                             <h4>2.5$ <sub>/per hour
                             </sub></h4>
@@ -141,32 +140,46 @@
                 <div class="row">
                     <div class="col offset-md-1 col-md-10 form-shadow">
                         <span class="top-sub-heading">Contact Us</span>
-                        <h2 class="text-left">Get in <span class="bold-text-title">TOUCH</span></h2>
+                        <h2 class="text-left">Contact us for <span class="bold-text-title">FREE Consultation</span></h2>
                         <div role="form" class="wpcf7" id="wpcf7-f303-p20-o1" lang="en-US" dir="ltr">
                             <div class="screen-reader-response"></div>
                             <form action=" " method="post" class="wpcf7-form">
                                 <div class="row">
                                     <div class="col-12 col-md-6">
-                                        <span class="wpcf7-form-control-wrap your-name"><input type="text" name="name" value="" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Name*" required="">
+                                        <span class="wpcf7-form-control-wrap your-name"><input type="text"
+                                                name="name" value=""
+                                                class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
+                                                aria-required="true" aria-invalid="false" placeholder="Name*" required>
                                         </span>
                                     </div>
                                     <div class="col-12 col-md-6">
-                                        <span class="wpcf7-form-control-wrap your-email"><input type="email" name="email" value="" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email*" required=""></span>
+                                        <span class="wpcf7-form-control-wrap your-email"><input type="email"
+                                                name="email" value=""
+                                                class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email"
+                                                aria-required="true" aria-invalid="false" placeholder="Email*" required></span>
                                     </div>
                                     <div class="col-12 col-md-6">
-                                        <span class="wpcf7-form-control-wrap your-subject"><input type="text" name="phone" value="" class="wpcf7-form-control wpcf7-text" aria-required="true" placeholder="Phone No*" required=""></span>
+                                        <span class="wpcf7-form-control-wrap your-subject"><input type="text"
+                                                name="phone" value="" class="wpcf7-form-control wpcf7-text"
+                                                aria-required="true" placeholder="Phone No*" required></span>
                                     </div>
                                     <div class="col-12 col-md-6">
-                                        <span class="wpcf7-form-control-wrap your-subject"><input type="text" name="subject" value="" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-invalid="false" placeholder="Subject">
+                                        <span class="wpcf7-form-control-wrap your-subject"><input type="text"
+                                                name="Your Company" value=""
+                                                class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
+                                                 aria-invalid="false" placeholder="Your Company" >
                                         </span>
                                     </div>
                                     <div class="col-12">
                                         <span class="wpcf7-form-control-wrap your-message">
-                                            <textarea name="message" rows="5" class="wpcf7-form-control wpcf7-textarea" placeholder="Message"></textarea></span>
+                                            <textarea name="Your requirements and feedbacks" rows="5"
+                                                class="wpcf7-form-control wpcf7-textarea" 
+                                                placeholder="Your requirements and feedbacks"></textarea></span>
                                     </div>
                                     <div class="col">
                                         <div class="">
-                                            <button class="btn btn-primary btn-hover-white" type="submit" value="submit" name="submit">Submit</button>
+                                            <button class="btn btn-primary btn-hover-white" type="submit" value="submit" name="submit"
+                                                >Submit</button>
                                         </div>
                                     </div>
                                 </div>

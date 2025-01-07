@@ -23,9 +23,7 @@
                         <span class="bold-text-title">INBOUND EXCELLENCE</span>
                     </h2>
                     <p>
-                        Having efficient and prompt inbound customer care is as essential as having an unmatched product
-                        or service. If you have been unable to meet the demands of customer support in-house, why not
-                        consider outsourcing inbound customer support to <a class="internal-linking" href="https://forexoutsource.com/">ForexOutsources</a>.
+                        Having efficient and prompt inbound customer care is as essential as offering an unmatched product or service in the Forex business. If your Forex brokerage is struggling to meet customer support demands in-house, consider Forex Broker Outsourcing with <a class="internal-linking" href="https://forexoutsource.com/">ForexOutsources</a>. Our support with outsourcing services ensures professional and seamless inbound customer care, enhancing client satisfaction and operational efficiency.
                     </p>
                 </div>
                 <div class="col-md-6 aos-init aos-animate" data-aos="zoom-in-left">
@@ -40,65 +38,67 @@
                 Benefits of Phone Inbound Services
             </h2>
             <div class="row">
-                <div class="col-12 col-md-4 ">
-                    <div class="feature-wrapper-old d-flex flex-wrap align-items-center align-self-center text-center">
-                        <i class="fa-solid fa-headset"></i>
-                        <h3>Professional Support Agents
-
-                        </h3>
-                        <p>Our agents have the required experience, skills, knowledge to handle any type inbound
-                            customer support service and technical support.
-                        </p>
-                    </div>
-                </div>
-
-                <div class="col-12 col-md-4">
-                    <div class="feature-wrapper-old d-flex flex-wrap align-items-center align-self-center text-center">
-                    <i class="fa fa-file" aria-hidden="true"></i>
-
-                        <h3>Advance Capabilities
-                        </h3>
-                        <p> We have advanced reporting and market testing abilities that provide you the needed edge in
-                            the business that helps us handle all possible scenarios.</p>
-                    </div>
-                </div>
-
-                <div class="col-12 col-md-4">
-                    <div class="feature-wrapper-old d-flex flex-wrap align-items-center align-self-center text-center">
-                    <i class="fa-solid fa-list"></i>
-                        <h3>Rich Capabilities </h3>
-                        <p>
-                            We have gained vast experience in addressing diverse inbound customer
-                            support needs of companies across various business vertices</p>
-                    </div>
-                </div>
-
-                <div class="col-12 col-md-4">
+            <div class="col-12 col-md-4">
                     <div class="feature-wrapper-old d-flex flex-wrap align-items-center align-self-center text-center">
                         <i class="fa-solid fa-user-clock"></i>
                         <h3>24/7 Support
                         </h3>
-                        <p>We provide your company with 24/7 inbound support service, so you can always be sure that
-                            your customers' calls will be answered.
+                        <p>ForexOutsource offers 24/7 inbound support, ensuring your clients' calls are always answered. Boost your Forex business with our expert support for brokers, available anytime.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-12 col-md-4 ">
+                    <div class="feature-wrapper-old d-flex flex-wrap align-items-center align-self-center text-center">
+                        <i class="fa-solid fa-headset"></i>
+                        <h3>Multiple Timezone Support
+
+                        </h3>
+                        <p>ForexOutsource offers multiple time zone support, providing 24/7 assistance for your Forex business and boosting client satisfaction with our outsourcing support for Forex brokers.
                         </p>
                     </div>
                 </div>
 
                 <div class="col-12 col-md-4">
                     <div class="feature-wrapper-old d-flex flex-wrap align-items-center align-self-center text-center">
-                    <i class="fa fa-desktop" aria-hidden="true"></i>
-                        <h3>Sophisticated Technology</h3>
-                        <p>We are equipped with the latest data and communication system, so that we can
-                            provide quick and reliable services on a 24/7 basis</p>
+                    <i class="fa-solid fa-bell-concierge"></i>
+
+
+                        <h3>Support At All Levels
+                        </h3>
+                        <p> Our Phone Inbound services provide L1 and L2 support, resolving client queries and technical issues quickly, enhancing efficiency in your Forex business with outsourcing services.
+                        </p>
                     </div>
                 </div>
 
                 <div class="col-12 col-md-4">
                     <div class="feature-wrapper-old d-flex flex-wrap align-items-center align-self-center text-center">
-                    <i class="fa-solid fa-star"></i>
-                        <h3> Assured Customer Satisfaction</h3>
-                        <p>Get complete customer satisfaction, increased customer loyalty and better
-                            retention </p><br>
+                        <i class="fas fa-cogs" aria-hidden="true"></i>
+                        <h3>Technical Support for Forex Brokers</h3>
+                        <p>
+                            Swift technical support to resolve issues, optimize platforms, and improve trading experiences.
+                        </p><br>
+                    </div>
+
+                </div>
+
+                
+
+                <div class="col-12 col-md-4">
+                    <div class="feature-wrapper-old d-flex flex-wrap align-items-center align-self-center text-center">
+                    <i class="fa fa-desktop" aria-hidden="true"></i>
+                        <h3>Multiple Language Support
+                        </h3>
+                        <p>We offer technical support services for Forex brokers, addressing issues promptly to optimize platform performance and improve the trading experience.</p>
+                    </div>
+                </div>
+
+                <div class="col-12 col-md-4">
+                    <div class="feature-wrapper-old d-flex flex-wrap align-items-center align-self-center text-center">
+                    <i class="fa-solid fa-user-check"></i>
+                        <h3> Account Opening & KYC
+                        </h3>
+                        <p>At ForexOutsource, we offer fast and secure account opening and KYC services for Forex brokers through Phone Inbound services, ensuring smooth onboarding and compliance in the FX industry.
+                        </p>
                     </div>
                 </div>
 
