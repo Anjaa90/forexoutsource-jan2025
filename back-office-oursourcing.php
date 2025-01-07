@@ -30,7 +30,7 @@
             <div class="row">
                 <div class="col-md-6">
                     <h2 class="text-left">Simplified Efficiency with
-                        <span class="bold-text-title"> CRM Solutions</span>
+                        <span class="bold-text-title"> Back Office Solutions</span>
                     </h2>
                     <p>
                     Our approach to delivering back office outsourcing services is deeply rooted in client-centricity. We meticulously assess our clients' requirements and study their business needs to tailor robust solutions. This process is not merely a technical endeavor but a business philosophy, enabling us to provide highly customized and effective back-office support that aligns with our clients' specific needs and preferences. With outsourcing for Forex brokers and support with outsourcing, we ensure your Forex business operates smoothly, enhancing operational efficiency and client satisfaction.

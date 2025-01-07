@@ -511,6 +511,7 @@
                     <div class="col-md-6">
                         <p>
                         Starting your own Forex Brokerage can result in numerous complexities, including higher initial costs, lack of trained professionals, or inefficiency in managing excess client queries. Our company's services are designed to address these challenges, empowering Forex Businesses to focus on their core operations while we manage the non-core ones.
+                        <br><br>
                         With our technology-driven approach, we streamline operations through automated systems and insightful analytics, ensuring your Forex Business stays ahead in the competitive FX Industry. By opting for our outsourcing services, you can save time and money, gain a competitive edge, and elevate your performance to new heights in the ever-evolving forex market.
 
                         </p>
