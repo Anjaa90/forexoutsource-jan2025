@@ -140,7 +140,7 @@
                                     <a href="phone-inbound-pricing.php">Phone Inbound Pricing</a>
                                 </li>
                                 <li>
-                                    <a href="crm-and-back-office-pricing.php">CRM and Back-Office Pricing</a>
+                                    <a href="back-office-oursourcing.php">Back Office Outsourcing</a>
                                 </li>
                                 <li>
                                     <a href="mt4-mt5-administration-pricing.php">MT4/MT5 Administration Pricing</a>
@@ -236,7 +236,7 @@
       "logo": "https://forexoutsource.com/imgs/forexoutsoursing%20logo%20white%20green.png",
       "contactPoint": {
         "@type": "ContactPoint",
-        "telephone": "+917972359229",
+        "telephone": "+971544335310",
         "contactType": "customer service",
         "areaServed": "GB",
         "availableLanguage": "en"
@@ -251,7 +251,7 @@
     </script>
 <script async src='https://d2mpatx37cqexb.cloudfront.net/delightchat-whatsapp-widget/embeds/embed.min.js'></script>
         <script>
-          var wa_btnSetting = {"btnColor":"#16BE45","ctaText":"","cornerRadius":40,"marginBottom":30,"marginLeft":50,"marginRight":0,"btnPosition":"left","whatsAppNumber":"917972359229","welcomeMessage":"Hello","zIndex":999999,"btnColorScheme":"light"};
+          var wa_btnSetting = {"btnColor":"#16BE45","ctaText":"","cornerRadius":40,"marginBottom":30,"marginLeft":50,"marginRight":0,"btnPosition":"left","whatsAppNumber":"971544335310","welcomeMessage":"Hello","zIndex":999999,"btnColorScheme":"light"};
           window.onload = () => {
             _waEmbed(wa_btnSetting);
           };

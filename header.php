@@ -96,7 +96,7 @@ a:hover{
                     <ul class="item-flex item-flex-icon" style="margin: 20px 0;">
                         <li class="li-margin"><img src="imgs/mail.png" alt=""><a href="mailto:sales@priximglobal.com" target="_blank"> sales@priximglobal.com</a></li>
                         <!-- <li><img src="imgs/phone-call.webp" alt=""><a href="tel:+442036952310" target="_blank"></a></li> -->
-                        <li><img src="imgs/whatsapp.webp" alt=""><a href="https://wa.me/+917972359229" target="_blank">+971544335310</a></li>
+                        <li><img src="imgs/whatsapp.webp" alt=""><a href="https://wa.me/+971544335310" target="_blank">+971544335310</a></li>
                         <li><img src="imgs/skype.webp" alt=""><a href="https://join.skype.com/invite/xraWIPh4p9eP" target="_blank"> Prixim Global</a></li>
                     </ul>
                 </div>
@@ -183,7 +183,7 @@ a:hover{
                                         <a class="nav-link <?php if($page=='phone-inbound') {echo 'active-anchor';} ?>" href="phone-inbound.php">Phone Inbound </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link <?php if($page=='crm-and-back-office') {echo 'active-anchor';} ?>" href="crm-and-back-office.php">CRM and Back-Office</a>
+                                        <a class="nav-link <?php if($page=='back-office-oursourcing.php') {echo 'active-anchor';} ?>" href="back-office-oursourcing.php">Back Office Outsourcing</a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link <?php if($page=='mt4-mt5-administration') {echo 'active-anchor';} ?>" href="mt4-mt5-administration.php">MT4/MT5 Administration
@@ -213,7 +213,7 @@ a:hover{
                                         <a class="nav-link <?php if($page=='phone-inbound-pricing') {echo 'active-anchor';} ?>" href="phone-inbound-pricing.php">Phone Inbound Pricing </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link <?php if($page=='crm-and-back-office-pricing') {echo 'active-anchor';} ?>" href="crm-and-back-office-pricing.php">CRM and Back-Office Pricing</a>
+                                        <a class="nav-link <?php if($page=='back-office-outsourcing') {echo 'active-anchor';} ?>" href="back-office-oursourcing-pricing.php">Back Office Outsourcing Pricing</a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link <?php if($page=='mt4-mt5-administration-pricing') {echo 'active-anchor';} ?>" href="mt4-mt5-administration-pricing.php">MT4/MT5 Administration Pricing
@@ -244,7 +244,7 @@ a:hover{
                                         <ul class="item-block" style="margin: 20px 0;">
                                             <li><a href="mailto:sales@priximglobal.com" target="_blank"><i class="fa-solid fa-envelope" style="color: #61b577;"></i>sales@priximglobal.com</a></li>
                                             <li><a href="tel:+442036952310" target="_blank"><i class="fa-solid fa-phone" style="color: #61b577;"></i>+44 20 36952310</a></li>
-                                            <li><a href="https://wa.me/+917972359229" target="_blank"><i class="fa-brands fa-whatsapp" style="color: #61b577;"></i>+917972359229</a></li>
+                                            <li><a href="https://wa.me/+971544335310" target="_blank"><i class="fa-brands fa-whatsapp" style="color: #61b577;"></i>+971544335310</a></li>
                                             <li><a href="https://join.skype.com/invite/xraWIPh4p9eP" target="_blank"><i class="fa-brands fa-skype" style="color: #61b577;"></i>Prixim Global</a></li>
                                         </ul>
                                     </div>

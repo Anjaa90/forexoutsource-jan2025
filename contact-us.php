@@ -44,8 +44,8 @@ if(isset($_POST['email'])) {
     $email_message .= "Name: ".clean_string($name)."\n";
     $email_message .= "Phone: ".clean_string($phone)."\n";
     $email_message .= "Email: ".clean_string($email_from)."\n";
-    $email_message .= "Suject: ".clean_string($subject)."\n";
-    $email_message .= "Message: ".clean_string($comments)."\n";
+    $email_message .= "Your Company: ".clean_string($Your_Company)."\n";
+    $email_message .= "Your requirements and Feedback: ".clean_string($Your_requirements_and_feedback)."\n";
     
       
     
@@ -167,7 +167,7 @@ if (@mail($email_to, $email_subject, $email_message, $headers))
                 <div class="row mt-5">
                     <div class="col-12 col-md contact-col">
                         <div class="contact-detail">
-                           
+                        <img src="imgs\India_flag.png" alt="" style="border-radius: 50%; width: 15%;">
                             <h3>Mumbai</h3>
                             <h4>Prixim Global</h4>
                             <p>F09, Vashi Fantasia, Sector 30A, Vashi, Navi Mumbai - 400703</p>
@@ -176,10 +176,10 @@ if (@mail($email_to, $email_subject, $email_message, $headers))
                     </div>
                     <div class="col-12 col-md contact-col">
                         <div class="contact-detail">
-                          
+                        <img src="imgs\India_flag.png" alt=""  style="border-radius: 50%; width: 15%;">
                             <h3>APAC Relationship Center</h3>
                             <p>Awfis, 2nd Floor, Vishwaroop IT Park, Vashi, Navi Mumbai, 400703</p>
-                            <a href=""><i class="fa-solid fa-phone"></i>+917972359229</a>
+                            <a href=""><i class="fa-solid fa-phone"></i>+971544335310</a>
                         </div>
                     </div>
                     <!-- <div class="col-12 col-md contact-col">
@@ -202,7 +202,7 @@ if (@mail($email_to, $email_subject, $email_message, $headers))
                 <div class="row">
                     <div class="col offset-md-1 col-md-10 form-shadow">
                         <span class="top-sub-heading">Contact Us</span>
-                        <h2 class="text-left">Get in <span class="bold-text-title">TOUCH</span></h2>
+                        <h2 class="text-left">Contact us for <span class="bold-text-title">FREE Consultation</span></h2>
                         <div role="form" class="wpcf7" id="wpcf7-f303-p20-o1" lang="en-US" dir="ltr">
                             <div class="screen-reader-response"></div>
                             <form action=" " method="post" class="wpcf7-form">
@@ -227,16 +227,16 @@ if (@mail($email_to, $email_subject, $email_message, $headers))
                                     </div>
                                     <div class="col-12 col-md-6">
                                         <span class="wpcf7-form-control-wrap your-subject"><input type="text"
-                                                name="subject" value=""
+                                                name="Your Company" value=""
                                                 class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
-                                                 aria-invalid="false" placeholder="Subject" >
+                                                 aria-invalid="false" placeholder="Your Company" >
                                         </span>
                                     </div>
                                     <div class="col-12">
                                         <span class="wpcf7-form-control-wrap your-message">
-                                            <textarea name="message" rows="5"
+                                            <textarea name="Your requirements and feedbacks" rows="5"
                                                 class="wpcf7-form-control wpcf7-textarea" 
-                                                placeholder="Message"></textarea></span>
+                                                placeholder="Your requirements and feedbacks"></textarea></span>
                                     </div>
                                     <div class="col">
                                         <div class="">

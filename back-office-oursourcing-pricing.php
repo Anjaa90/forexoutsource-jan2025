@@ -34,7 +34,7 @@
                             
                             <p>Upscale your business with our CRM and BACK-OFFICE services starting from just </p>
                             <div class="mb-3">
-                            <h4>500$ <sub>/per month
+                            <h4>999$ <sub>/per month
                             </sub></h4>
 </div>
                             <a href="contact-us.php" class="btn btn-primary btn-white mt-2">Get Free Demo</a>
