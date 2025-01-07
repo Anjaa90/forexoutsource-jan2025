@@ -55,8 +55,8 @@ switch($title){
         $url = "https://forexoutsource.com/phone-inbound.php";
         break;
 
-    case 'crm-and-back-office.php':
-        $title = "Reliable CRM Services  Backoffice Outsourcing for Forex Brokers";
+    case 'back-office-oursourcing.php':
+        $title = "Reliable CRM Services Backoffice Outsourcing for Forex Brokers";
         $description = "Optimize your Forex brokerage with customized CRM solutions for better client management, retention, and growth. Streamlined tools for FX companies.";
         $keywords = "CRM and Backoffice, CRM, Backoffice, Customer Relationship Management, CRM Services, CRM Solutions, CRM Software, CRM Software Solutions, Backoffice Services, Client Relationship Management, Customer CRM Software, Software Customer Management, Sales Customer Management, CRM System, Features of CRM, Back Office Outsourcing, Back Office Outsourcing Companies, Back Office Process Outsourcing, Back Office Service Providers, Back Office Business Process Outsourcing, Back Office Support Companies, Back Office Outsourcing Solutions";
         $name = "CRM and Back Office";
@@ -109,8 +109,8 @@ switch($title){
         $url = "https://forexoutsource.com/phone-inbound-pricing.php";
         break;
 
-    case 'crm-and-back-office-pricing.php':
-        $title = "CRM & Back-Office Pricing | Outsourcing for Forex Brokers";
+    case 'back-office-oursourcing-pricing.php':
+        $title = "Back-Office and Outsourcing Pricing | Outsourcing for Forex Brokers";
         $description = "Upscale your business with our affordable CRM and Back-Office service Pricing. Monthly billing starting from just $500. Get started today!";
         $keywords = "CRM And Back-Office Pricing, Cost And Pricing Plans, CRM And Back-Office Pricing & Packages, Cost And Pricing Plans, CRM And Back-Office Cost, Back Office Services, Back Office Support Service, Back Office Service Provider, CRM And Backoffice, CRM, Backoffice, Customer Relationship Management, CRM Services, CRM Solutions, CRM Software, CRM Software Solutions, Backoffice Services, Client Relationship Management, Customer CRM Software, Software Customer Management, Sales Customer Management, CRM System, Features Of CRM, Back Office Outsourcing, Back Office Outsourcing Companies, Back Office Process Outsourcing, Back Office Service Providers, Back Office Business Process Outsourcing, Back Office Support Companies, Back Office Outsourcing Solutions";
         $name = "CRM and Back Office Pricing";

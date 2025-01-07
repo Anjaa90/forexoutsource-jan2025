@@ -15,12 +15,12 @@
 <main>
     <section class="page-header-wrapper">
         <div class="container">
-            <h1 class="text-center white-color text-capitalize">CRM and Back-Office</h1>
+            <h1 class="text-center white-color text-capitalize">Back Office Outsourcing</h1>
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="index.php">Home</a></li>
                     <li class="breadcrumb-item"><a href="#">Support Services </a></li>
-                    <li class="breadcrumb-item active" aria-current="page">CRM and Back-Office</li>
+                    <li class="breadcrumb-item active" aria-current="page">Back Office Outsourcing</li>
                 </ol>
             </nav>
         </div>

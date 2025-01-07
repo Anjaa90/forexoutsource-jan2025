@@ -8,7 +8,7 @@
 <main>
     <section class="page-header-wrapper">
         <div class="container">
-            <h1 class="text-center white-color text-capitalize">CRM and Back-Office Pricing</h1>
+            <h1 class="text-center white-color text-capitalize">Back Office Outsourcing Pricing</h1>
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="index.php">Home</a></li>
