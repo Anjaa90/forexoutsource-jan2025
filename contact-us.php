@@ -168,7 +168,7 @@ if (@mail($email_to, $email_subject, $email_message, $headers))
                 <div class="row mt-5">
                     <div class="col-12 col-md contact-col">
                         <div class="contact-detail">
-                        <img src="imgs\India_flag.png" alt="" style="border-radius: 50%; width: 15%;">
+                        <img src="imgs\Indialogo.png" alt="" style="border-radius: 50%; width: 15%;">
                             <h3>Mumbai</h3>
                             <h4>Prixim Global</h4>
                             <p>F09, Vashi Fantasia, Sector 30A, Vashi, Navi Mumbai - 400703</p>
@@ -177,7 +177,7 @@ if (@mail($email_to, $email_subject, $email_message, $headers))
                     </div>
                     <div class="col-12 col-md contact-col">
                         <div class="contact-detail">
-                        <img src="imgs\India_flag.png" alt=""  style="border-radius: 50%; width: 15%;">
+                        <img src="imgs\Indialogo.png" alt=""  style="border-radius: 50%; width: 15%;">
                             <h3>APAC Relationship Center</h3>
                             <p>Awfis, 2nd Floor, Vishwaroop IT Park, Vashi, Navi Mumbai, 400703</p>
                             <a href=""><i class="fa-solid fa-phone"></i>+971544335310</a>
