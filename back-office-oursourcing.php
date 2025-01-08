@@ -156,7 +156,7 @@
                     </div>
                 </div>
                 <div class="col-12 col-lg-6 wcu-m">
-                    <div class="process-wrapper dark-bg">
+                    <div class="process-wrapper primary-bg">
                         <span class="icon-box">
                         <i class="fa-solid fa-hourglass-start"></i>
                         </span>
@@ -179,7 +179,7 @@
                 </div>
 
                 <div class="col-12 col-lg-6 pt-4">
-                    <div class="process-wrapper primary-bg">
+                    <div class="process-wrapper white-bg">
                         <span class=" icon-box">
                             <i class="fa-solid fa-chart-simple"></i>
                         </span>
@@ -201,7 +201,7 @@
                 </div>
 
                 <div class="col-12 col-lg-6 pt-4">
-                    <div class="process-wrapper white-bg">
+                    <div class="process-wrapper dark-bg">
                         <span class=" icon-box">
                             <i class="fa-solid fa-user-clock"></i>
                         </span>
