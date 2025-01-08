@@ -60,7 +60,7 @@
                     </div>
                 </div>
                 <div class="col-12 col-lg-6 pt-4">
-                    <div class="process-wrapper dark-bg">
+                    <div class="process-wrapper primary-bg">
                         <span class="icon-box">
                         <i class="fa-solid fa-id-card"></i>
                         </span>
@@ -83,7 +83,7 @@
                 </div>
 
                 <div class="col-12 col-lg-6 pt-4">
-                    <div class="process-wrapper primary-bg">
+                    <div class="process-wrapper white-bg">
                         <span class=" icon-box">
                         <i class="fa-solid fa-shield-halved"></i>
                         </span>
@@ -96,7 +96,7 @@
                 <div class="col-12 col-lg-6 pt-4">
                     <div class="process-wrapper dark-bg">
                         <span class="icon-box">
-                            <i class="fa-solid fa-headset""></i>
+                            <i class="fa-solid fa-headset"></i>
                         </span>
                         <h3>Technical Issues Support for Forex Brokers
                         </h3>
@@ -106,7 +106,7 @@
                 </div>
 
                 <div class="col-12 col-lg-6 pt-4">
-                    <div class="process-wrapper white-bg">
+                    <div class="process-wrapper dark-bg">
                         <span class=" icon-box">
                         <i class="fa-solid fa-user-lock"></i>
                         </span>

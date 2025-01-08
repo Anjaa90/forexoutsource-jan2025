@@ -164,7 +164,7 @@
                     </div>
                 </div>
                 <div class="col-12 col-lg-6 pt-4">
-                    <div class="process-wrapper white-bg">
+                    <div class="process-wrapper primary-bg">
                         <span class="icon-box">
                         <i class="fa-solid fa-handshake"></i>
                         </span>
@@ -177,7 +177,7 @@
                 </div>
 
                 <div class="col-12 col-lg-6 pt-4">
-                    <div class="process-wrapper primary-bg">
+                    <div class="process-wrapper dark-bg">
                         <span class=" icon-box">
                         <i class="fa-solid fa-shield-halved"></i>
                         </span>
