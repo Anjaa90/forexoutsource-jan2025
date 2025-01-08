@@ -84,7 +84,7 @@
                 </div>
 
                 <div class="col-12 col-lg-4 pt-4">
-                    <div class="process-wrapper dark-bg">
+                    <div class="process-wrapper white-bg">
                         <span class="icon-box">
                         <i class="fa-solid fa-shield-halved"></i>
                         </span>
@@ -95,7 +95,7 @@
                     </div>
                 </div>
                 <div class="col-12 col-lg-4 pt-4">
-                    <div class="process-wrapper white-bg">
+                    <div class="process-wrapper dark-bg">
                         <span class="icon-box">
                         <i class="fa-solid fa-handshake"></i>
                         </span>
@@ -219,22 +219,20 @@
                             </div>
                         </div>
                         <div class="card">
-                            <div class="card-header" id="headingThree">
+                            <div class="card-header" id="headingSix">
                                 <h5 class="mb-0">
                                     <a href="#" class="btn btn-link collapsed" data-toggle="collapse"
-                                        data-target="#collapseThree" aria-expanded="false"
-                                        aria-controls="collapseThree">
+                                        data-target="#collapseSix" aria-expanded="false"
+                                        aria-controls="collapseSix">
                                         <i class="fas fa-plus"></i>
-                                        What Are the Requirements to Start Live Chat Outsourcing?
-
+                                        What Quality Do You Have?
                                     </a>
                                 </h5>
                             </div>
-                            <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
+                            <div id="collapseSix" class="collapse" aria-labelledby="headingSix"
                                 data-parent="#accordion">
                                 <div class="card-body">
-                                To start live chat outsourcing for your Forex brokerage, you need a reliable provider, trained agents, secure platforms, and integration with your Forex business systems. ForexOutsource satisfies all your needs and requirements to start, ensuring seamless implementation and support.
-
+                                At ForexOutsource, our agents are experts in the FX industry and know all aspects of Forex trading. They deliver professional, efficient support, ensuring high-quality service for your Forex business.
                                 </div>
                             </div>
                         </div>
@@ -275,21 +273,24 @@
 
                                 </div>
                             </div>
-                        </div><div class="card">
-                            <div class="card-header" id="headingSix">
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingThree">
                                 <h5 class="mb-0">
                                     <a href="#" class="btn btn-link collapsed" data-toggle="collapse"
-                                        data-target="#collapseSix" aria-expanded="false"
-                                        aria-controls="collapseSix">
+                                        data-target="#collapseThree" aria-expanded="false"
+                                        aria-controls="collapseThree">
                                         <i class="fas fa-plus"></i>
-                                        What Quality Do You Have?
+                                        What Are the Requirements to Start Live Chat Outsourcing?
+
                                     </a>
                                 </h5>
                             </div>
-                            <div id="collapseSix" class="collapse" aria-labelledby="headingSix"
+                            <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
                                 data-parent="#accordion">
                                 <div class="card-body">
-                                At ForexOutsource, our agents are experts in the FX industry and know all aspects of Forex trading. They deliver professional, efficient support, ensuring high-quality service for your Forex business.
+                                To start live chat outsourcing for your Forex brokerage, you need a reliable provider, trained agents, secure platforms, and integration with your Forex business systems. ForexOutsource satisfies all your needs and requirements to start, ensuring seamless implementation and support.
+
                                 </div>
                             </div>
                         </div>

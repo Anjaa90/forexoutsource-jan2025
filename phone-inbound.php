@@ -153,21 +153,21 @@
                             </div>
                         </div>
                         <div class="card">
-                            <div class="card-header" id="headingThree">
+                            <div class="card-header" id="headingSix">
                                 <h5 class="mb-0">
                                     <a href="#" class="btn btn-link collapsed" data-toggle="collapse"
-                                        data-target="#collapseThree" aria-expanded="false"
-                                        aria-controls="collapseThree">
+                                        data-target="#collapseSix" aria-expanded="false"
+                                        aria-controls="collapseSix">
                                         <i class="fas fa-plus"></i>
-                                        What Are the Requirements to Start Phone Inbound Outsourcing?
+                                        What Do You Offer In Phone Inbound Outsourcing Services?
 
                                     </a>
                                 </h5>
                             </div>
-                            <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
+                            <div id="collapseSix" class="collapse" aria-labelledby="headingSix"
                                 data-parent="#accordion">
                                 <div class="card-body">
-                                To start phone inbound outsourcing for your Forex brokerage, you need a reliable provider, skilled agents, secure phone systems, and integration with your Forex business operations. ForexOutsource satisfies all your needs and requirements, ensuring smooth implementation and ongoing support for seamless customer service.
+                                We provide L1 and L2 support, KYC management, account opening assistance, and deposit/withdraw support. With multiple timezone support, support at all levels, and multiple language support, we ensure seamless operations and enhanced customer satisfaction for your Forex business.
 
                                 </div>
                             </div>
@@ -208,22 +208,24 @@
                                 Yes, we offer 24/7 support to ensure your Forex business runs smoothly. Whether it's technical support, client queries, or operational issues, our team is always ready to assist, no matter the time zone.
                                 </div>
                             </div>
-                        </div><div class="card">
-                            <div class="card-header" id="headingSix">
+                        </div>
+                        
+                        <div class="card">
+                            <div class="card-header" id="headingThree">
                                 <h5 class="mb-0">
                                     <a href="#" class="btn btn-link collapsed" data-toggle="collapse"
-                                        data-target="#collapseSix" aria-expanded="false"
-                                        aria-controls="collapseSix">
+                                        data-target="#collapseThree" aria-expanded="false"
+                                        aria-controls="collapseThree">
                                         <i class="fas fa-plus"></i>
-                                        What Do You Offer In Phone Inbound Outsourcing Services?
+                                        What Are the Requirements to Start Phone Inbound Outsourcing?
 
                                     </a>
                                 </h5>
                             </div>
-                            <div id="collapseSix" class="collapse" aria-labelledby="headingSix"
+                            <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
                                 data-parent="#accordion">
                                 <div class="card-body">
-                                We provide L1 and L2 support, KYC management, account opening assistance, and deposit/withdraw support. With multiple timezone support, support at all levels, and multiple language support, we ensure seamless operations and enhanced customer satisfaction for your Forex business.
+                                To start phone inbound outsourcing for your Forex brokerage, you need a reliable provider, skilled agents, secure phone systems, and integration with your Forex business operations. ForexOutsource satisfies all your needs and requirements, ensuring smooth implementation and ongoing support for seamless customer service.
 
                                 </div>
                             </div>

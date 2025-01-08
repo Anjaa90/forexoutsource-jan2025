@@ -84,7 +84,7 @@
                                     <a href="contact-us.php">Contact Us</a>
                                 </li>
                                 <li>
-                                    <a href="https://forexoutsource.com/blogs/">Blogs</a>
+                                    <a href="https://forexoutsource.wordpress.com/">Blogs</a>
                                 </li>
                             </ul>
                             <h3>Explore Us</h3>

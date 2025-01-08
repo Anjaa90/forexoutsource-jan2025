@@ -248,21 +248,23 @@
                                     </div>
                                 </div>
                                 <div class="card">
-                                    <div class="card-header" id="headingThree">
+                                    <div class="card-header" id="headingSix">
                                         <h5 class="mb-0">
-                                            <a href="#" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                            <a href="#" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseFour">
                                                 <i class="fas fa-plus"></i>
-                                                How does Remote Support Outsourcing impact Customer Satisfaction?
+                                                Is there a Difference Between Onshore and Offshore Remote Support Outsourcing?
 
                                             </a>
                                         </h5>
                                     </div>
-                                    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+                                    <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordion">
                                         <div class="card-body">
-                                        When done correctly, it can improve Customer Satisfaction through faster response times and higher service quality.
+                                        Onshore Outsourcing involves hiring support providers in the same country, while Offshore Outsourcing involves hiring providers in other countries. Both have pros and cons.
 
                                         </div>
                                     </div>
+                                  
+                                    
                                 </div>
                                 <div class="card">
                                     <div class="card-header" id="headingFour">
@@ -301,24 +303,23 @@
                                    
                                     
                                 </div>
+                                
                                 <div class="card">
-                                    <div class="card-header" id="headingSix">
+                                    <div class="card-header" id="headingThree">
                                         <h5 class="mb-0">
-                                            <a href="#" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseFour">
+                                            <a href="#" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                                                 <i class="fas fa-plus"></i>
-                                                Is there a Difference Between Onshore and Offshore Remote Support Outsourcing?
+                                                How does Remote Support Outsourcing impact Customer Satisfaction?
 
                                             </a>
                                         </h5>
                                     </div>
-                                    <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordion">
+                                    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
                                         <div class="card-body">
-                                        Onshore Outsourcing involves hiring support providers in the same country, while Offshore Outsourcing involves hiring providers in other countries. Both have pros and cons.
+                                        When done correctly, it can improve Customer Satisfaction through faster response times and higher service quality.
 
                                         </div>
                                     </div>
-                                  
-                                    
                                 </div>
                             </div>
                         </div>

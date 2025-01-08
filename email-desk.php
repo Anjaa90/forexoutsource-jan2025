@@ -155,21 +155,20 @@
                             </div>
                         </div>
                         <div class="card">
-                            <div class="card-header" id="headingThree">
+                            <div class="card-header" id="headingSix">
                                 <h5 class="mb-0">
                                     <a href="#" class="btn btn-link collapsed" data-toggle="collapse"
-                                        data-target="#collapseThree" aria-expanded="false"
-                                        aria-controls="collapseThree">
+                                        data-target="#collapseSix" aria-expanded="false"
+                                        aria-controls="collapseSix">
                                         <i class="fas fa-plus"></i>
-                                        What Are the Requirements to Start Email Desk Outsourcing?
-
+                                        What Do You Offer In Email Desk Outsourcing?
                                     </a>
                                 </h5>
                             </div>
-                            <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
+                            <div id="collapseSix" class="collapse" aria-labelledby="headingSix"
                                 data-parent="#accordion">
                                 <div class="card-body">
-                                To start email desk outsourcing for your Forex brokerage, you need a reliable provider, skilled agents, secure email platforms, and integration with your Forex business systems. ForexOutsource satisfies all your needs and requirements to get started, ensuring smooth implementation and ongoing support.
+                                We offer L1 and L2 support, professional email communication, KYC management, account opening assistance, deposit/withdraw assistance, and solutions for technical and compliance issues. Our services streamline your Forex business operations and boost customer satisfaction.
 
                                 </div>
                             </div>
@@ -214,21 +213,24 @@
 
                                 </div>
                             </div>
-                        </div><div class="card">
-                            <div class="card-header" id="headingSix">
+                        </div>
+                        
+                        <div class="card">
+                            <div class="card-header" id="headingThree">
                                 <h5 class="mb-0">
                                     <a href="#" class="btn btn-link collapsed" data-toggle="collapse"
-                                        data-target="#collapseSix" aria-expanded="false"
-                                        aria-controls="collapseSix">
+                                        data-target="#collapseThree" aria-expanded="false"
+                                        aria-controls="collapseThree">
                                         <i class="fas fa-plus"></i>
-                                        What Do You Offer In Email Desk Outsourcing?
+                                        What Are the Requirements to Start Email Desk Outsourcing?
+
                                     </a>
                                 </h5>
                             </div>
-                            <div id="collapseSix" class="collapse" aria-labelledby="headingSix"
+                            <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
                                 data-parent="#accordion">
                                 <div class="card-body">
-                                We offer L1 and L2 support, professional email communication, KYC management, account opening assistance, deposit/withdraw assistance, and solutions for technical and compliance issues. Our services streamline your Forex business operations and boost customer satisfaction.
+                                To start email desk outsourcing for your Forex brokerage, you need a reliable provider, skilled agents, secure email platforms, and integration with your Forex business systems. ForexOutsource satisfies all your needs and requirements to get started, ensuring smooth implementation and ongoing support.
 
                                 </div>
                             </div>
