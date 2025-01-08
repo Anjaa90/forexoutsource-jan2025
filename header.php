@@ -194,7 +194,7 @@ a:hover{
                                         </a>
                                     </li>
                                 </ul>
-                            </li>
+                            </li> 
                             <li class="nav-item sub-menu">
                                 <a class="nav-link <?php 
                                 if($page=='live-chat-pricing' || $page=='email-desk-pricing'|| $page=='phone-inbound-pricing'|| $page=='crm-and-back-office-pricing'|| $page=='mt4-mt5-administration-pricing'|| $page=='remote-support-pricing'){echo 'activebtn';}
@@ -227,7 +227,7 @@ a:hover{
                             </li>
                             
                             <li class="nav-item <?php if($page=='blogs') {echo 'activebtn';} ?>">
-                                <a class="nav-link" href="https://forexoutsource.com/blogs/">Blogs
+                                <a class="nav-link" href="https://forexoutsource.wordpress.com/">Blogs
                                    
                                 </a>
                                
