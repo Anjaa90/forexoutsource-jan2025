@@ -260,24 +260,27 @@
                             </div>
                         </div>
                         <div class="card">
-                            <div class="card-header" id="headingThree">
-                                <h5 class="mb-0">
-                                    <a href="#" class="btn btn-link collapsed" data-toggle="collapse"
-                                        data-target="#collapseThree" aria-expanded="false"
-                                        aria-controls="collapseThree">
-                                        <i class="fas fa-plus"></i>
-                                        What Are the Requirements to Start Back Office Outsourcing?
-                                    </a>
-                                </h5>
-                            </div>
-                            <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
-                                data-parent="#accordion">
-                                <div class="card-body">
-                                To start back office outsourcing for your Forex brokerage, you need a reliable provider, skilled agents, secure systems, and integration with your Forex business operations. ForexOutsource meets all your requirements, ensuring smooth implementation and continuous support for seamless operations.
+                        <div class="card-header" id="headingSix">
+                            <h5 class="mb-0">
+                                <a href="#" class="btn btn-link collapsed" data-toggle="collapse"
+                                    data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                                    <i class="fas fa-plus"></i>
+                                    What Do You Offer in Back Office Outsourcing Services?
 
-                                </div>
+
+
+                                </a>
+                            </h5>
+                        </div>
+                        <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordion">
+                            <div class="card-body">
+                            We provide essential back office outsourcing services for Forex brokers, including account opening support, KYC management, reporting, risk management profiling, and AML management. These services streamline your operations and ensure compliance, allowing you to focus on growing your Forex business.
+
+
                             </div>
                         </div>
+                    </div>
+                        
                         <div class="card">
                             <div class="card-header" id="headingFour">
                                 <h5 class="mb-0">
@@ -321,26 +324,25 @@
                         </div>
                     </div>
                     <div class="card">
-                        <div class="card-header" id="headingSix">
-                            <h5 class="mb-0">
-                                <a href="#" class="btn btn-link collapsed" data-toggle="collapse"
-                                    data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                                    <i class="fas fa-plus"></i>
-                                    What Do You Offer in Back Office Outsourcing Services?
+                            <div class="card-header" id="headingThree">
+                                <h5 class="mb-0">
+                                    <a href="#" class="btn btn-link collapsed" data-toggle="collapse"
+                                        data-target="#collapseThree" aria-expanded="false"
+                                        aria-controls="collapseThree">
+                                        <i class="fas fa-plus"></i>
+                                        What Are the Requirements to Start Back Office Outsourcing?
+                                    </a>
+                                </h5>
+                            </div>
+                            <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
+                                data-parent="#accordion">
+                                <div class="card-body">
+                                To start back office outsourcing for your Forex brokerage, you need a reliable provider, skilled agents, secure systems, and integration with your Forex business operations. ForexOutsource meets all your requirements, ensuring smooth implementation and continuous support for seamless operations.
 
-
-
-                                </a>
-                            </h5>
-                        </div>
-                        <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordion">
-                            <div class="card-body">
-                            We provide essential back office outsourcing services for Forex brokers, including account opening support, KYC management, reporting, risk management profiling, and AML management. These services streamline your operations and ensure compliance, allowing you to focus on growing your Forex business.
-
-
+                                </div>
                             </div>
                         </div>
-                    </div>
+                    
                     </div>
 
                 </div>
