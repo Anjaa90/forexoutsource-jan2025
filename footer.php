@@ -118,7 +118,7 @@
                                     <a href="crm-and-back-office.php">CRM and Back-Office</a>
                                 </li>
                                 <li>
-                                    <a href="mt4-mt5-administration.php">MT4/MT5 Administration</a>
+                                    <a href="mt4-MET5-administration.php">MT4/MET5 Administration</a>
                                 </li>
                                 <li>
                                     <a href="remote-support.php">Remote Support</a>
@@ -143,7 +143,7 @@
                                     <a href="back-office-oursourcing.php">Back Office Outsourcing</a>
                                 </li>
                                 <li>
-                                    <a href="mt4-mt5-administration-pricing.php">MT4/MT5 Administration Pricing</a>
+                                    <a href="mt4-MET5-administration-pricing.php">MT4/MET5 Administration Pricing</a>
                                 </li>
                                 <li>
                                     <a href="remote-support-pricing.php">Remote Support Pricing</a>

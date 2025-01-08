@@ -1,4 +1,4 @@
-<?php $page="mt4-mt5-administration-pricing"; include("header.php")?>
+<?php $page="mt4-MET5-administration-pricing"; include("header.php")?>
 <style>
    .card-fonts h3 {
         font-weight: 700;
@@ -8,12 +8,12 @@
 <main>
     <section class="page-header-wrapper">
         <div class="container">
-            <h1 class="text-center white-color text-capitalize">MT4/MT5 Administration Pricing</h1>
+            <h1 class="text-center white-color text-capitalize">MT4/MET5 Administration Pricing</h1>
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="index.php">Home</a></li>
                     <li class="breadcrumb-item"><a href="#">Packages </a></li>
-                    <li class="breadcrumb-item active" aria-current="page">MT4/MT5 Administration Pricing</li>
+                    <li class="breadcrumb-item active" aria-current="page">MT4/MET5 Administration Pricing</li>
                 </ol>
             </nav>
         </div>
@@ -27,9 +27,9 @@
                             <div class="image-wrapper">
                                 <img src="imgs/Administration services.png" alt="Team Member">
                             </div>
-                            <h3><a href="#">Our MT4/MT5 Administration services For Forex Brokerage Business Have billing on a <br>
+                            <h3><a href="#">Our MT4/MET5 Administration services For Forex Brokerage Business Have billing on a <br>
                                <span>MONTHLY BASIS </span></a></h3>
-                            <p>Get the best MT4/MT5 Administration For Your Forex Business starting at just
+                            <p>Get the best MT4/MET5 Administration For Your Forex Business starting at just
                             </p>
                             <div class="mb-3">
                             <h4>500$ <sub>/per month
@@ -48,14 +48,14 @@
 
     <section class="op-section-features">
         <div class="container">
-            <h2><span class="bold-text-title">Our MT4/MT5 administration package includes
+            <h2><span class="bold-text-title">Our MT4/MET5 administration package includes
                 </span></h2>
             <div class="row">
                 <div class="col-12 col-md-6 col-lg-3">
                     <div
                         class="card-fonts feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center green-card">
                         <i class="fa-solid fa-compass"></i>
-                        <h3>MT4/MT5 API
+                        <h3>MT4/MET5 API
                         </h3>
 
                     </div>

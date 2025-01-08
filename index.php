@@ -296,7 +296,7 @@
                                     <br><span class="bold-title-text">Everything at one place </span><br> for your Forex Brokerage Business</h1>
                                      <img class="tagimg" src="imgs\Forex_tag 2.png" alt="">
                                         <!-- <div class="ribbon">
-                                            <h3 style="font-size: 18px;font-weight: 600;padding: 10px;color: #fff;"> MT4/MT5 Administration starting at just 750$ /per month</h3><i></i><i></i><i></i><i></i>
+                                            <h3 style="font-size: 18px;font-weight: 600;padding: 10px;color: #fff;"> MT4/MET5 Administration starting at just 750$ /per month</h3><i></i><i></i><i></i><i></i>
                                         </div> -->
                                         <div class="text-left">
                                             <a href="contact-us.php" class="btn btn-primary btn-hover-white">Start Now</a>
@@ -314,7 +314,7 @@
                             <div class="row">
                                 <div class="col-lg-10">
                                     <div class="slider-title-wrapper">
-                                    <h1 style="font-size: 32px;">MT4/ MT5 Server,
+                                    <h1 style="font-size: 32px;">MT4/ MET5 Server,
 
                                     <br><span class="bold-title-text"> Administration and <br>Disaster Recovery </span><br>Right from the Experts</h1>
                                      <img class="tagimg" style="height:170px;" src="imgs\Forex _tag 3.png" alt="">
@@ -366,8 +366,8 @@
                                 <span class=" icon-box">
                                     <i class="fa-solid fa-chart-simple"></i>
                                 </span>
-                                <h3>MT4/MT5 Administration</h3>
-                                <p style="font-size:14px;">ForexOutsource specializes in MT4/MT5 Administration, guaranteeing smooth and efficient operations for your forex trading platform. Let us handle the technical complexities while you focus on growing your Forex Brokerage! 
+                                <h3>MT4/MET5 Administration</h3>
+                                <p style="font-size:14px;">ForexOutsource specializes in MT4/MET5 Administration, guaranteeing smooth and efficient operations for your forex trading platform. Let us handle the technical complexities while you focus on growing your Forex Brokerage! 
                                 </p>
                             </div>
                         </div>
@@ -522,7 +522,7 @@
                             <li><i class="fas fa-long-arrow-alt-right"></i> Live Chat and <a class="internal-linking" href="https://forexoutsource.com/email-desk.php">Email Desk</a> for handling all your client queries.
 
                             </li>
-                            <li><i class="fas fa-long-arrow-alt-right"></i> <a class="internal-linking" href="https://forexoutsource.com/mt4-mt5-administration.php"></class>MT4/MT5</a> Administration to keep your platform up and running.
+                            <li><i class="fas fa-long-arrow-alt-right"></i> <a class="internal-linking" href="https://forexoutsource.com/mt4-MET5-administration.php"></class>MT4/MET5</a> Administration to keep your platform up and running.
 
                             </li>
                             <li><i class="fas fa-long-arrow-alt-right"></i> <a class="internal-linking" href="https://forexoutsource.com/crm-and-back-office.php">CRM</a> services to overview client’s activity with the platform, etc.
@@ -624,7 +624,7 @@
                                     </div>
                                     <h3>Regulated Broker from United Kingdom</h3>
                                     <!-- <span class="designation">Creative Manager</span> -->
-                                    <p>ForexOutsource's MT5 server management service has been a game-changer for our trading operations. Their seamless and efficient solutions have significantly enhanced our trading experience, demonstrating unparalleled expertise and reliability in the world of forex services.
+                                    <p>ForexOutsource's MET5 server management service has been a game-changer for our trading operations. Their seamless and efficient solutions have significantly enhanced our trading experience, demonstrating unparalleled expertise and reliability in the world of forex services.
                                     </p>
                                     <div class="rating">
                                         <span><i class="far fa-star"></i></span>

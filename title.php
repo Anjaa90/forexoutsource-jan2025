@@ -4,7 +4,7 @@ switch($title){
     case 'index.php':
         $title = "Outsourcing for Forex Brokers, Chat Support Outsourcing";
         $description = "Get professional Forex Outsourcing Support Solutions from our team of experts. Our services include Live Chat, Email Desk, Remote Support, CRM";
-        $keywords = "Forex Outsourcing, FX Outsourcing Services, Forex Trading, Forex Platform, Forex Company, Live Chat, Email Desk, Brokerage, Trading Platforms, CRM, Back Office, Forex Outsourcing Services, Forex Support, MT5 Administration, MT4 Administration, Outsourcing Services, Customer Support, Live Chat Outsourcing, Phone Inbound, Remote Support, Forex White Label, Forex White Label Solutions, Broker Website, Tradersroom Solutions, Offshore Company, PSP Support, Support Services, Our Solution,  Forex Outsourcing Service, Forex Outsourcing Solutions, CRM and Back-Office,  Live Chat and Email Desk,  MT4/MT5 Administration, Outsourcing Customer Service, Customer Service Chat.";
+        $keywords = "Forex Outsourcing, FX Outsourcing Services, Forex Trading, Forex Platform, Forex Company, Live Chat, Email Desk, Brokerage, Trading Platforms, CRM, Back Office, Forex Outsourcing Services, Forex Support, MET5 Administration, MT4 Administration, Outsourcing Services, Customer Support, Live Chat Outsourcing, Phone Inbound, Remote Support, Forex White Label, Forex White Label Solutions, Broker Website, Tradersroom Solutions, Offshore Company, PSP Support, Support Services, Our Solution,  Forex Outsourcing Service, Forex Outsourcing Solutions, CRM and Back-Office,  Live Chat and Email Desk,  MT4/MET5 Administration, Outsourcing Customer Service, Customer Service Chat.";
         $name = "forexoutsource";
         $alternateName = "forexoutsource";
         $url = "https://forexoutsource.com/";
@@ -12,8 +12,8 @@ switch($title){
     
     case 'about-us.php':
         $title = "About | Professional Outsourcing Services for Forex Brokers";
-        $description = "ForexOutsource offers customized outsourcing solutions for brokers, including support, KYC, AML, and MT5 management.	";
-        $keywords = "Outsourcing, Forex, Forex Outsourcing, About Us,  Forex Trading, Forex Outsourcing Services, Outsourcing Industry, Forex Outsourcing Solutions, Outsourcing Live Chat,  Live Chat, Email Desk, Brokerage, Trading Platforms, CRM, Back Office, Forex Outsourcing Services, Forex Support, MT5 Administration, MT4 Administration, Outsourcing Services, Customer Support, Live Chat Outsourcing, Phone Inbound, Remote Support, Forex White Label, Outsourcing Customer Service, Customer Service Chat";
+        $description = "ForexOutsource offers customized outsourcing solutions for brokers, including support, KYC, AML, and MET5 management.	";
+        $keywords = "Outsourcing, Forex, Forex Outsourcing, About Us,  Forex Trading, Forex Outsourcing Services, Outsourcing Industry, Forex Outsourcing Solutions, Outsourcing Live Chat,  Live Chat, Email Desk, Brokerage, Trading Platforms, CRM, Back Office, Forex Outsourcing Services, Forex Support, MET5 Administration, MT4 Administration, Outsourcing Services, Customer Support, Live Chat Outsourcing, Phone Inbound, Remote Support, Forex White Label, Outsourcing Customer Service, Customer Service Chat";
         $name = "About Us";
         $alternateName = "About Us";
         $url = "https://forexoutsource.com/about-us.php";
@@ -21,8 +21,8 @@ switch($title){
         
     case 'how-it-works.php':
         $title = "How It Works | Outsourcing for Forex Brokers | ForexOutsource";
-        $description = "Grow your FX business with LiveChat, Email, Phone Support, KYC, AML, and MT5 services. Reliable outsourcing for brokers and companies.";
-        $keywords = "How IT Works , Forex Outsourcing, FX Outsourcing Services, Forex Trading, Forex Platform, Forex Company, Live Chat, Email Desk, Brokerage, Trading Platforms, CRM, Back Office, Forex Outsourcing Services, Forex Support, MT5 Administration, MT4 Administration, Outsourcing Services, Customer Support, Live Chat Outsourcing, Phone Inbound, Remote Support, Forex White Label, Forex White Label Solutions, Broker Website, Tradersroom Solutions, Offshore Company, PSP Support, Support Services, Our Solution,  Forex Outsourcing Service, Forex Outsourcing Solutions, CRM and Back-Office,  Live Chat and Email Desk,  MT4/MT5 Administration, Outsourcing Customer Service, Customer Service Chat.";
+        $description = "Grow your FX business with LiveChat, Email, Phone Support, KYC, AML, and MET5 services. Reliable outsourcing for brokers and companies.";
+        $keywords = "How IT Works , Forex Outsourcing, FX Outsourcing Services, Forex Trading, Forex Platform, Forex Company, Live Chat, Email Desk, Brokerage, Trading Platforms, CRM, Back Office, Forex Outsourcing Services, Forex Support, MET5 Administration, MT4 Administration, Outsourcing Services, Customer Support, Live Chat Outsourcing, Phone Inbound, Remote Support, Forex White Label, Forex White Label Solutions, Broker Website, Tradersroom Solutions, Offshore Company, PSP Support, Support Services, Our Solution,  Forex Outsourcing Service, Forex Outsourcing Solutions, CRM and Back-Office,  Live Chat and Email Desk,  MT4/MET5 Administration, Outsourcing Customer Service, Customer Service Chat.";
         $name = "how-it-works";
         $alternateName = "how-it-works";
         $url = "https://forexoutsource.com/how-it-works.php";
@@ -64,13 +64,13 @@ switch($title){
         $url = "https://forexoutsource.com/crm-and-back-office.php";
         break;
 
-    case 'mt4-mt5-administration.php':
-        $title = "MT5 Admin & Server Setup for Forex Brokers | ForexOutsource";
-        $description = "Professional MT5 administration and server setup services for Forex brokers and FX companies. Affordable pricing for seamless operations.";
-        $keywords = "MT4/MT5 Administration, MT4 Administration, MT5 Administration, MT5 Administration Services, MT5 Administration Solutions, MT4 Administration Services,  MT4 Administration Solutions, MetaTrader 4, MetaTrader 5, MT4 Platforms, MT5 Platforms, ForexOutsourcing, MetaTrader 5 Trading Platforms, MetaTrader 4 Trading Platforms, Technical Support, Plugins and Tools, Meta Trader, Trading Platform, MT5 Trading, Trading Experience, Trade MT5, Metatrader Trading Platform, Platform Meta Trader, Forex Trading, MT5 Solutions, MT5 Services, MT4 Plugin, MT5 Plugin, MT5 System, MT4 System, MT5 Administrator, MT4 Administrator, MT5 Support, MT4 Support, Forex Trading Solutions";
-        $name = "MT4-MT5 Administration";
-        $alternateName = "MT4-MT5 Administration";
-        $url = "https://forexoutsource.com/mt4-mt5-administration.php";
+    case 'mt4-MET5-administration.php':
+        $title = "MET5 Admin & Server Setup for Forex Brokers | ForexOutsource";
+        $description = "Professional MET5 administration and server setup services for Forex brokers and FX companies. Affordable pricing for seamless operations.";
+        $keywords = "MT4/MET5 Administration, MT4 Administration, MET5 Administration, MET5 Administration Services, MET5 Administration Solutions, MT4 Administration Services,  MT4 Administration Solutions, MetaTrader 4, MetaTrader 5, MT4 Platforms, MET5 Platforms, ForexOutsourcing, MetaTrader 5 Trading Platforms, MetaTrader 4 Trading Platforms, Technical Support, Plugins and Tools, Meta Trader, Trading Platform, MET5 Trading, Trading Experience, Trade MET5, Metatrader Trading Platform, Platform Meta Trader, Forex Trading, MET5 Solutions, MET5 Services, MT4 Plugin, MET5 Plugin, MET5 System, MT4 System, MET5 Administrator, MT4 Administrator, MET5 Support, MT4 Support, Forex Trading Solutions";
+        $name = "MT4-MET5 Administration";
+        $alternateName = "MT4-MET5 Administration";
+        $url = "https://forexoutsource.com/mt4-MET5-administration.php";
         break;
     
     case 'remote-support.php':
@@ -118,13 +118,13 @@ switch($title){
         $url = "https://forexoutsource.com/crm-and-back-office-pricing.php";
         break;
 
-    case 'mt4-mt5-administration-pricing.php':
-        $title = "MT4/MT5 Administration Pricing | Outsourcing for Forex Brokers";
-        $description = "Get the best MT4/MT5 Administration services Pricing at just $500/month. Efficient and reliable, our monthly billing makes it easier for you. Don't miss out!";
-        $keywords = "MT4/MT5 Administration Pricing, MT4/MT5 Administration Pricing Cost, Cost And Pricing Plans, MT4/MT5 Administration Pricing & Packages, MT4/MT5 Administration, MT4 Administration, MT5 Administration, MT5 Administration Services, MT5 Administration Solutions, MT4 Administration Services, MT4 Administration Solutions, Metatrader 4, Metatrader 5, MT4 Platforms, MT5 Platforms, Forexoutsourcing, Metatrader 5 Trading Platforms, Metatrader 4 Trading Platforms, Technical Support, Plugins And Tools, Meta Trader, Trading Platform, MT5 Trading, Trading Experience, Trade MT5, Metatrader Trading Platform, Platform Meta Trader, Forex Trading, MT5 Solutions, MT5 Services, MT4 Plugin, MT5 Plugin, MT5 System";
-        $name = "MT4 MT5 Administration Pricing";
-        $alternateName = "MT4 MT5 Administration Pricing";
-        $url = "https://forexoutsource.com/mt4-mt5-administration-pricing.php";
+    case 'mt4-MET5-administration-pricing.php':
+        $title = "MT4/MET5 Administration Pricing | Outsourcing for Forex Brokers";
+        $description = "Get the best MT4/MET5 Administration services Pricing at just $500/month. Efficient and reliable, our monthly billing makes it easier for you. Don't miss out!";
+        $keywords = "MT4/MET5 Administration Pricing, MT4/MET5 Administration Pricing Cost, Cost And Pricing Plans, MT4/MET5 Administration Pricing & Packages, MT4/MET5 Administration, MT4 Administration, MET5 Administration, MET5 Administration Services, MET5 Administration Solutions, MT4 Administration Services, MT4 Administration Solutions, Metatrader 4, Metatrader 5, MT4 Platforms, MET5 Platforms, Forexoutsourcing, Metatrader 5 Trading Platforms, Metatrader 4 Trading Platforms, Technical Support, Plugins And Tools, Meta Trader, Trading Platform, MET5 Trading, Trading Experience, Trade MET5, Metatrader Trading Platform, Platform Meta Trader, Forex Trading, MET5 Solutions, MET5 Services, MT4 Plugin, MET5 Plugin, MET5 System";
+        $name = "MT4 MET5 Administration Pricing";
+        $alternateName = "MT4 MET5 Administration Pricing";
+        $url = "https://forexoutsource.com/mt4-MET5-administration-pricing.php";
         break;
 
                         
@@ -140,7 +140,7 @@ switch($title){
     case 'forex-whiteLabel.php':
         $title = "Forex White Label Solutions | Forex Trading Platform | Forex Services";
         $description = "Discover our Forex White Label Solutions, cutting-edge Forex Trading Platform, and comprehensive forex services. Elevate your Forex Business with us!";
-        $keywords = "Forex White Label, Forex White Label Solutions, Trading Platform, Forex Regulation, Forex Brokerage, White Label Services, White Label Provider, Forex White Label Services, Forex Broker, Forex Brokerage Business, Forex White Label Solution, Forex Trading Broker, MT4 White Label, MT5 White Label, Forex White Label, Forex Trading Platform, Forex Trading Broker, Benefits of Forex White Label, Forex Brokerage Solutions, Forex Market, Forex Platform, Forex Marketing, Forex Services, Features of Forex Whitelabel,  Features of Forex Whitelabel Services, Trading Platform, Risk Management, Forex Regulations, White Label Forex Trading Platform";
+        $keywords = "Forex White Label, Forex White Label Solutions, Trading Platform, Forex Regulation, Forex Brokerage, White Label Services, White Label Provider, Forex White Label Services, Forex Broker, Forex Brokerage Business, Forex White Label Solution, Forex Trading Broker, MT4 White Label, MET5 White Label, Forex White Label, Forex Trading Platform, Forex Trading Broker, Benefits of Forex White Label, Forex Brokerage Solutions, Forex Market, Forex Platform, Forex Marketing, Forex Services, Features of Forex Whitelabel,  Features of Forex Whitelabel Services, Trading Platform, Risk Management, Forex Regulations, White Label Forex Trading Platform";
         $name = "Forex WhiteLabel";
         $alternateName = "Forex WhiteLabel";
         $url = "https://forexoutsource.com/forex-whiteLabel.php";
@@ -185,7 +185,7 @@ switch($title){
     case 'contact-us.php':
         $title = "Contact Us | Outsourcing for Forex Brokers";
         $description = "Get in touch with us for all your Forex Outsourcing needs. Contact us now for reliable and efficient forex Trading Solutions.";
-        $keywords = "Contact Us, Forex Outsourcing, Forex Outsourcing Services, Get in Touch, Submit a form, Contact with us, Contact Form, Contact Website, Contact Us Phone, Contact us for more information, Get in touch with us, Reach out to us, Live Chat Support, Email Desk, Email Desk Services, Phone Inbound, CRM and Backoffice, MT4/MT5 Administration, Remote Support, Forex White Label, Forex Broker Website, Forex CRM, Offshore Company Incorporation, PSP Account";
+        $keywords = "Contact Us, Forex Outsourcing, Forex Outsourcing Services, Get in Touch, Submit a form, Contact with us, Contact Form, Contact Website, Contact Us Phone, Contact us for more information, Get in touch with us, Reach out to us, Live Chat Support, Email Desk, Email Desk Services, Phone Inbound, CRM and Backoffice, MT4/MET5 Administration, Remote Support, Forex White Label, Forex Broker Website, Forex CRM, Offshore Company Incorporation, PSP Account";
         $name = "Contact Us";
         $alternateName = "Contact Us";
         $url = "https://forexoutsource.com/contact-us.php";

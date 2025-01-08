@@ -165,7 +165,7 @@ a:hover{
                             </li>
                             <li class="nav-item sub-menu">
                                 <a class="nav-link <?php 
-                                if($page=='live-chat' || $page=='email-desk'|| $page=='phone-inbound'|| $page=='crm-and-back-office'|| $page=='mt4-mt5-administration'|| $page=='remote-support'){echo 'activebtn';}
+                                if($page=='live-chat' || $page=='email-desk'|| $page=='phone-inbound'|| $page=='crm-and-back-office'|| $page=='mt4-MET5-administration'|| $page=='remote-support'){echo 'activebtn';}
                                 ?>" href="#">Support Services
 
 
@@ -186,7 +186,7 @@ a:hover{
                                         <a class="nav-link <?php if($page=='back-office-oursourcing.php') {echo 'active-anchor';} ?>" href="back-office-oursourcing.php">Back Office Outsourcing</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link <?php if($page=='mt4-mt5-administration') {echo 'active-anchor';} ?>" href="mt4-mt5-administration.php">MT4/MT5 Administration
+                                        <a class="nav-link <?php if($page=='mt4-MET5-administration') {echo 'active-anchor';} ?>" href="mt4-MET5-administration.php">MT4/MET5 Administration
                                         </a>
                                     </li>
                                     <li class="nav-item">
@@ -197,7 +197,7 @@ a:hover{
                             </li>
                             <li class="nav-item sub-menu">
                                 <a class="nav-link <?php 
-                                if($page=='live-chat-pricing' || $page=='email-desk-pricing'|| $page=='phone-inbound-pricing'|| $page=='crm-and-back-office-pricing'|| $page=='mt4-mt5-administration-pricing'|| $page=='remote-support-pricing'){echo 'activebtn';}
+                                if($page=='live-chat-pricing' || $page=='email-desk-pricing'|| $page=='phone-inbound-pricing'|| $page=='crm-and-back-office-pricing'|| $page=='mt4-MET5-administration-pricing'|| $page=='remote-support-pricing'){echo 'activebtn';}
                                 ?>" href="#"> Pricing 
                                 <i class="fa fa-chevron-down"></i>
                                 </a>
@@ -216,7 +216,7 @@ a:hover{
                                         <a class="nav-link <?php if($page=='back-office-outsourcing') {echo 'active-anchor';} ?>" href="back-office-oursourcing-pricing.php">Back Office Outsourcing Pricing</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link <?php if($page=='mt4-mt5-administration-pricing') {echo 'active-anchor';} ?>" href="mt4-mt5-administration-pricing.php">MT4/MT5 Administration Pricing
+                                        <a class="nav-link <?php if($page=='mt4-MET5-administration-pricing') {echo 'active-anchor';} ?>" href="mt4-MET5-administration-pricing.php">MT4/MET5 Administration Pricing
                                         </a>
                                     </li>
                                     <li class="nav-item">
