@@ -459,7 +459,7 @@
                     </div>
 
                     <div class="col-12 col-md-6 col-lg-3">
-                        <div class="feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center white-card">
+                        <div class="feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center green-card">
                             <i class="fa-solid fa-hand-holding-dollar"></i>
                             <h3>Boost ROI with Outsourcing your non-core tasks, saving time and money. 
                             </h3>
@@ -469,7 +469,7 @@
                     </div>
 
                     <div class="col-12 col-md-6 col-lg-3">
-                        <div class="feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center black-card">
+                        <div class="feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center white-card">
                             <i class="fa-solid fa-triangle-exclamation"></i>
                             <h3>Enhancing Client Satisfaction with Our Forex Outsourcing Expertise. 
                             </h3>
@@ -479,7 +479,7 @@
                     </div>
 
                     <div class="col-12 col-md-6 col-lg-3">
-                        <div class="feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center green-card">
+                        <div class="feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center black-card">
                             <i class="fa-solid fa-earth-americas"></i>
                             <h3>Elevating Your Forex Business Globally with Our Expertise.
                             </h3>
@@ -489,7 +489,7 @@
                     </div>
 
                     <div class="col-12 col-md-6 col-lg-3">
-                        <div class="feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center white-card">
+                        <div class="feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center green-card">
                             <i class="fa-solid fa-scale-balanced"></i>
                             <h3 style="font-size:13px;">We provide flexible forex solutions to help Forex businesses scale with confidence and achieve their goals seamlessly.
                             </h3>
