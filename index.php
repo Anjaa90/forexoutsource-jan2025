@@ -504,7 +504,7 @@
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-10">
-                        <h2 >How Outsourcing Can Help You Gain<span class="bold-text-title">Seamless Advantage In The Forex Market</span></h2>
+                        <h2 >How Outsourcing Can Help You Gain <span class="bold-text-title">Seamless Advantage In The Forex Market</span></h2>
                     </div>
                 </div>
                 <div class="row">
