@@ -1,14 +1,14 @@
-<?php $page="mt4-mt5-administration"; include("header.php")?>
+<?php $page="mt4-MET5-administration"; include("header.php")?>
 
 <main>
 <section class="page-header-wrapper">
         <div class="container">
-            <h1 class="text-center white-color text-capitalize">MT4/MT5 Administration</h1>
+            <h1 class="text-center white-color text-capitalize">MT4/MET5 Administration</h1>
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="index.php">Home</a></li>
                     <li class="breadcrumb-item"><a href="#">Support Services </a></li>
-                    <li class="breadcrumb-item active" aria-current="page">MT4/MT5 Administration</li>
+                    <li class="breadcrumb-item active" aria-current="page">MT4/MET5 Administration</li>
                 </ol>
             </nav>
         </div>
@@ -18,17 +18,17 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <h2 class="text-left">MT4/MT5
+                    <h2 class="text-left">MT4/MET5
 
 
                         <span class="bold-text-title"> Administration Solution</span>
                     </h2>
                     <p>
-                    <a class="internal-linking" href="https://forexoutsource.com/">ForexOutsource</a> Company, With years of experience in the financial industry, we are committed to delivering top-notch solutions to help you optimize your trading system and enhance your trading experience.Our team of experienced professionals specializes in the administration of MetaTrader 4 (MT4) and MetaTrader 5 (MT5) platforms.
+                    <a class="internal-linking" href="https://forexoutsource.com/">ForexOutsource</a> Company, With years of experience in the financial industry, we are committed to delivering top-notch solutions to help you optimize your trading system and enhance your trading experience.Our team of experienced professionals specializes in the administration of MetaTrader 4 (MT4) and MetaTrader 5 (MET5) platforms.
                     </p>
                 </div>
                 <div class="col-md-6 aos-init aos-animate" data-aos="zoom-in-left">
-                    <img src="imgs/mt4&5 1st.webp" class="img-fluid img-size" alt="MT4/MT5 Administration Solutions">
+                    <img src="imgs/mt4&5 1st.webp" class="img-fluid img-size" alt="MT4/MET5 Administration Solutions">
                 </div>
             </div>
         </div>
@@ -38,14 +38,14 @@
         <div class="container">
             <div class="row">
             <div class="col-md-6 aos-init aos-animate" data-aos="zoom-in-left">
-                    <img src="imgs/mt4&5 2nd.webp" class="img-fluid image-size-2" alt="MT4/MT5 Administration">
+                    <img src="imgs/mt4&5 2nd.webp" class="img-fluid image-size-2" alt="MT4/MET5 Administration">
                 </div>    
             <div class="col-md-6">
                     <h2 class="text-left">What is
-                       <span class="bold-text-title"> MT4/MT5 Administration?</span>
+                       <span class="bold-text-title"> MT4/MET5 Administration?</span>
                     </h2>
                     <p>
-                    MT4/MT5 Administration refers to the management and oversight of MetaTrader 4 and MetaTrader 5 trading platforms, which are widely used in the financial industry for forex and other asset trading. Administrators are responsible for configuring server settings, maintaining user accounts, and ensuring the smooth operation of these platforms. They play a crucial role in monitoring system performance, security, and data integrity. <br><br> Overall, MT4/MT5 administration is vital for maintaining a reliable and secure trading environment. Additionally, MT4/MT5 administrators often handle updates, plugin installations, and user support, ensuring that traders can execute their trades efficiently and securely.
+                    MT4/MET5 Administration refers to the management and oversight of MetaTrader 4 and MetaTrader 5 trading platforms, which are widely used in the financial industry for forex and other asset trading. Administrators are responsible for configuring server settings, maintaining user accounts, and ensuring the smooth operation of these platforms. They play a crucial role in monitoring system performance, security, and data integrity. <br><br> Overall, MT4/MET5 administration is vital for maintaining a reliable and secure trading environment. Additionally, MT4/MET5 administrators often handle updates, plugin installations, and user support, ensuring that traders can execute their trades efficiently and securely.
                 </p>
                 </div>
                 
@@ -65,7 +65,7 @@
                         <h3>Platform Installation and Configuration
                         </h3>
                         <p>
-                        We start by setting up MT4/MT5 according to your preferences. Our experts ensure a seamless installation process, configure server settings, and integrate plugins and tools to optimize performance.
+                        We start by setting up MT4/MET5 according to your preferences. Our experts ensure a seamless installation process, configure server settings, and integrate plugins and tools to optimize performance.
                         </p>
                     </div>
                 </div>
@@ -147,7 +147,7 @@
                         <h3>Expertise
                         </h3>
                         <p>
-                        Our team comprises industry veterans with extensive experience in MT4/MT5 administration.
+                        Our team comprises industry veterans with extensive experience in MT4/MET5 administration.
                         </p>
                     </div>
                 </div>
@@ -203,7 +203,7 @@
                                         <h5 class="mb-0">
                                             <a href="#" class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                                                 <i class="fas fa-plus"></i>
-                                                What are the Main Responsibilities of an MT4/MT5 Administrator?
+                                                What are the Main Responsibilities of an MT4/MET5 Administrator?
                                            </a>
                                         </h5>
                                     </div>
@@ -221,13 +221,13 @@
                                         <h5 class="mb-0">
                                             <a href="#" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                                                 <i class="fas fa-plus"></i>
-                                                What is the Difference Between MT4 and MT5 Administration?
+                                                What is the Difference Between MT4 and MET5 Administration?
                                             </a>
                                         </h5>
                                     </div>
                                     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
                                         <div class="card-body">
-                                        MT5 Administration encompasses all the features of MT4 administration while also offering additional functionalities such as synthetic instruments, an economic calendar, and a built-in strategy tester.
+                                        MET5 Administration encompasses all the features of MT4 administration while also offering additional functionalities such as synthetic instruments, an economic calendar, and a built-in strategy tester.
                                         </div>
                                     </div>
                                 </div>
@@ -236,15 +236,23 @@
                                         <h5 class="mb-0">
                                             <a href="#" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseFour">
                                                 <i class="fas fa-plus"></i>
+<<<<<<< HEAD
                                                 How do I Perform Backups in MT4/MT5 Administration?
+=======
+                                                Can I Integrate MT4/MET5 with External Systems?
+>>>>>>> 97e0b823a3c53d0a049f8fea450abd9147478bba
 
                                             </a>
                                         </h5>
                                     </div>
                                     <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordion">
                                         <div class="card-body">
+<<<<<<< HEAD
                                         Backups in MT4/MT5 can be done by regularly copying the server's data folder to an external location,
                                         ensuring data recovery in case of a server failure.
+=======
+                                        Yes, you can Integrate MT4/MET5 with External Systems such as Trading CRM, Payment gateways, and risk management tools to enhance operational efficiency and provide a seamless user experience.
+>>>>>>> 97e0b823a3c53d0a049f8fea450abd9147478bba
 
                                         </div>
                                     </div>
@@ -256,7 +264,7 @@
                                         <h5 class="mb-0">
                                             <a href="#" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
                                                 <i class="fas fa-plus"></i>
-                                                Can I Monitor Real-time Trading Positions on MT4/MT5?
+                                                Can I Monitor Real-time Trading Positions on MT4/MET5?
 
                                             </a>
                                         </h5>
@@ -275,7 +283,7 @@
                                         <h5 class="mb-0">
                                             <a href="#" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFour">
                                                 <i class="fas fa-plus"></i>
-                                                Where can I find additional resources and support for MT4/MT5 Administration?
+                                                Where can I find additional resources and support for MT4/MET5 Administration?
 
 
                                             </a>
@@ -283,7 +291,7 @@
                                     </div>
                                     <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
                                         <div class="card-body">
-                                        You can find additional resources and support for MT4/MT5 Administration from the official MetaQuotes website, online forums, community groups, and various trading technology service providers.
+                                        You can find additional resources and support for MT4/MET5 Administration from the official MetaQuotes website, online forums, community groups, and various trading technology service providers.
 
                                         </div>
                                     </div>
@@ -296,14 +304,23 @@
                                         <h5 class="mb-0">
                                             <a href="#" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                                                 <i class="fas fa-plus"></i>
+<<<<<<< HEAD
                                                 Can I Integrate MT4/MT5 with External Systems?
+=======
+                                                How do I Perform Backups in MT4/MET5 Administration?
+>>>>>>> 97e0b823a3c53d0a049f8fea450abd9147478bba
 
                                             </a>
                                         </h5>
                                     </div>
                                     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
                                         <div class="card-body">
+<<<<<<< HEAD
                                         Yes, you can Integrate MT4/MT5 with External Systems such as Trading CRM, Payment gateways, and risk management tools to enhance operational efficiency and provide a seamless user experience.
+=======
+                                        Backups in MT4/MET5 can be done by regularly copying the server's data folder to an external location,
+                                        ensuring data recovery in case of a server failure.
+>>>>>>> 97e0b823a3c53d0a049f8fea450abd9147478bba
 
                                         </div>
                                     </div>

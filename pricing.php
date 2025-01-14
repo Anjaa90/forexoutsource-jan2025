@@ -122,13 +122,13 @@
                         <div class="select-plan-wrapper selected d-flex flex-wrap align-items-center align-self-center">
                             <span class="hot-tag"><span class="hot-tag-text"></span></span>
                             <!-- <span class="price">$ <span class="price-value">399</span>/mo</span> -->
-                            <h3>MT4/MT5 Administration
+                            <h3>MT4/MET5 Administration
                             </h3>
                            <div><i class="fas fa-long-arrow-alt-right"></i><p>Windows Server Management
                         </p></div>
                            <div> <i class="fas fa-long-arrow-alt-right"></i><p>Administrator Configurations
                         </p></div>
-                           <div> <i class="fas fa-long-arrow-alt-right"></i><p>MT4/MT5 API 
+                           <div> <i class="fas fa-long-arrow-alt-right"></i><p>MT4/MET5 API 
                         </p></div>
                            <div><i class="fas fa-long-arrow-alt-right"></i><p>Plugins & Tools 
                         </p></div>

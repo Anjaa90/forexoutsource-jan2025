@@ -123,7 +123,7 @@
                  <div class="image-prixim"><img src="imgs/prixim global logo.webp" alt=""></div>
                  
                     <p class="welcome-para"style="color:white;">
-                        Prixim Global is a Leading Provider of Business Process Management (BPM) and Information Technology (IT) FinTech services. Our vast portfolio of services and products includes Trading platforms Whitelabel, Outsourcing services like Live Chat and Email Desk, Server Management for MT4/MT5 and CRM and Back-Office Management, to name a few. Our commitment to excellence sets us apart and we are dedicated to providing effective solutions to our clients with 
+                        Prixim Global is a Leading Provider of Business Process Management (BPM) and Information Technology (IT) FinTech services. Our vast portfolio of services and products includes Trading platforms Whitelabel, Outsourcing services like Live Chat and Email Desk, Server Management for MT4/MET5 and CRM and Back-Office Management, to name a few. Our commitment to excellence sets us apart and we are dedicated to providing effective solutions to our clients with 
                         FOREXOUTSOURCE.                            
                     
                     </p>
