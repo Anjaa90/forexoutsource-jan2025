@@ -190,7 +190,7 @@
             </div>
         </div>
     </section>
-
+<!-- 
 <section class="section-lower">
                 <div class="container">
                     <h2 class="text-center">Frequently Asked Questions 
@@ -313,7 +313,7 @@
                        
                     </div>
                 </div>
-</section>
+</section> -->
 
 </main>
 <?php include ("footer.php") ?>
