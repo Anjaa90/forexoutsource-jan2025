@@ -144,8 +144,7 @@ if (@mail($email_to, $email_subject, $email_message, $headers))
                 <div class="row">
                     <div class="col-12 col-md contact-col">
                         <div class="contact-detail">
-                            <img src="imgs/united-arab-emirates.png" alt="">
-
+                        <img src="imgs/united-kingdom.png" alt="">
                             <h3>United Kingdom</h3>
                             <h4>Prixim Analytics EU Ltd</h4>
                             <p>Office 71-75, Shelton Street, Covent Garden, <br> London, WC2H 9JQ</p>
@@ -155,7 +154,7 @@ if (@mail($email_to, $email_subject, $email_message, $headers))
                     </div>
                     <div class="col-12 col-md contact-col">
                         <div class="contact-detail">
-                           <img src="imgs/united-kingdom.png" alt="">
+                           <img src="imgs/united-arab-emirates.png" alt="">
                             <h3>Dubai - UAE</h3>
                             <h4>Consulting Office</h4>
                             <p>Level 1, C1 Building, Central One District,Next to Ibis One
