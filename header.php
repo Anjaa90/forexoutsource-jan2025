@@ -20,7 +20,17 @@
         <link rel="preload" href="https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700,900&display=swap" as="font" onload="this.onload=null;this.rel='stylesheet'">
         <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700,900&display=swap"></noscript>
        
-        
+       <!-- Open Graph Meta Tags -->
+        <meta property="og:image" content="https://forexoutsource.com/imgs/Favicon.png" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
+        <meta property="og:url" content="https://forexoutsource.com/" />
+        <meta property="og:type" content="website" />
+
+        <!-- Twitter Card Meta Tags -->
+        <meta name="twitter:image" content="https://forexoutsource.com/imgs/Favicon.png" />
+        <meta name="twitter:card" content="summary_large_image" />
+
     
     </head>
 <style>
@@ -97,7 +107,7 @@ a:hover{
                         <li class="li-margin"><img src="imgs/mail.png" alt=""><a href="mailto:sales@priximglobal.com" target="_blank"> sales@priximglobal.com</a></li>
                         <!-- <li><img src="imgs/phone-call.webp" alt=""><a href="tel:+442036952310" target="_blank"></a></li> -->
                         <li><img src="imgs/whatsapp.webp" alt=""><a href="https://wa.me/+971544335310" target="_blank">+971544335310</a></li>
-                        <li><img src="imgs/skype.webp" alt=""><a href="https://join.skype.com/invite/xraWIPh4p9eP" target="_blank"> Prixim Global</a></li>
+                        <li><img src="imgs\skype.webp" alt=""><a href="https://join.skype.com/invite/xraWIPh4p9eP" target="_blank"> Prixim Global</a></li>
                     </ul>
                 </div>
                 <div class="col-4">
