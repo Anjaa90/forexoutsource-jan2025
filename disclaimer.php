@@ -23,7 +23,7 @@
 </section>
 
 <section class="service-details-section section-lower" style="padding-top:100px">
-        <div class="container">
+        <div class="container" id="terms">
             <div class="row mb-n7">
                 <div class="col-12 mb-7">
                     <div class="service-details">
@@ -51,6 +51,14 @@
             </div>
           
         </div>
+        <style>
+        #terms {
+            background-color: #b9b4b43d;
+            padding: 36px;
+            border-radius: 20px;
+            margin-bottom: 16px;
+        }
+    </style>
     </section>
 </main>
 <?php include("footer.php")?>
