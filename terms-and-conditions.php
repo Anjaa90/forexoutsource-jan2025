@@ -16,7 +16,7 @@ font-family: "Raleway", sans-serif;
     margin-bottom: 20px;
 font-size: 20px;
 }
-   
+
 </style>
 <main>
 <section class="page-header-wrapper">
@@ -34,7 +34,7 @@ font-size: 20px;
 <!-- ------- -->
 
 <section class="service-details-section" style="padding-top:100px">
-    <div class="container">
+    <div class="container" id="terms">
         <div class="row mb-n7">
             <div class="col-12 mb-7">
                 <div class="service-details">
@@ -207,6 +207,14 @@ font-size: 20px;
             </div>
         </div>
     </div>
+    <style>
+        #terms {
+            background-color: #b9b4b43d;
+            padding: 36px;
+            border-radius: 20px;
+            margin-bottom: 16px;
+        }
+    </style>
 </section>
 
 </main>
