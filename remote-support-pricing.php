@@ -82,7 +82,7 @@
 
                 <div class="col-12 col-md-6 col-lg-3">
                     <div
-                        class="card-fonts feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center white-card">
+                        class="card-fonts feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center green-card">
                         <i class="fa-solid fa-industry"></i>
                         <h3>Vendor Management
                         </h3>
@@ -91,7 +91,7 @@
 
                 <div class="col-12 col-md-6 col-lg-3">
                     <div
-                        class="card-fonts feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center black-card">
+                        class="card-fonts feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center white-card">
                         <i class="fa-solid fa-user-clock"></i>
                         <h3>Availability 24/7
                         </h3>
@@ -100,7 +100,7 @@
 
                 <div class="col-12 col-md-6 col-lg-3">
                     <div
-                        class="card-fonts feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center green-card">
+                        class="card-fonts feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center black-card">
                         <i class="fa-solid fa-magnifying-glass-chart"></i>
                         <h3>Performance Analytics
                         </h3>
@@ -111,7 +111,7 @@
 
                 <div class="col-12 col-md-6 col-lg-3">
                     <div
-                        class="card-fonts feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center white-card">
+                        class="card-fonts feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center green-card">
                         <i class="fa-solid fa-user-check"></i>
                         <h3>Compliance Adherence
                         </h3>

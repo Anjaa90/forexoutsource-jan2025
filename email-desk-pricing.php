@@ -75,7 +75,7 @@
 
                 <div class="col-12 col-md-6 col-lg-4">
                     <div
-                        class="card-fonts feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center green-card">
+                        class="card-fonts feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center black-card">
                         <i class="fa-solid fa-circle-dollar-to-slot" style="color: #6cf483;"></i>
                         <h3>Data Security and Compliance
                         </h3>
@@ -86,7 +86,7 @@
 
                 <div class="col-12 col-md-6 col-lg-4">
                     <div
-                        class="card-fonts feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center white-card">
+                        class="card-fonts feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center green-card">
                         <i class="fa-solid fa-sack-dollar"></i>
                         <h3>Cost Savings
                         </h3>
@@ -97,7 +97,7 @@
 
                 <div class="col-12 col-md-6 col-lg-4">
                     <div
-                        class="card-fonts feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center black-card">
+                        class="card-fonts feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center white-card">
                         <i class="fa-solid fa-chart-simple"></i>
                         <h3>Scalability
                         </h3>
@@ -106,7 +106,7 @@
 
                 <div class="col-12 col-md-6 col-lg-4">
                     <div
-                        class="card-fonts feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center green-card">
+                        class="card-fonts feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center black-card">
                         <i class="fa-solid fa-user-clock"></i>
                         <h3>24/7 Support
                         </h3>

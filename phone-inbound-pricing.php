@@ -95,7 +95,7 @@
 
                 <div class="col-12 col-md-6 col-lg-3">
                     <div
-                        class="card-fonts feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center white-card">
+                        class="card-fonts feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center green-card">
                         <i class="fa-solid fa-magnifying-glass-chart"></i>
                         <h3>Performance Analytics
                         </h3><br>
@@ -106,7 +106,7 @@
 
                 <div class="col-12 col-md-6 col-lg-3">
                     <div
-                        class="card-fonts feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center black-card">
+                        class="card-fonts feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center white-card">
                         <i class="fa-solid fa-user-clock"></i>
                         <h3>24/7 Support
                         </h3><br>
@@ -115,7 +115,7 @@
 
                 <div class="col-12 col-md-6 col-lg-3">
                     <div
-                        class="card-fonts feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center green-card">
+                        class="card-fonts feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center black-card">
                         <i class="fa-solid fa-clock"></i>
                         <h3>Reduced Response Times
                         </h3>
@@ -126,7 +126,7 @@
 
                 <div class="col-12 col-md-6 col-lg-3">
                     <div
-                        class="card-fonts feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center white-card">
+                        class="card-fonts feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center green-card">
                         <i class="fa-solid fa-chart-pie"></i>
                         <h3>Advanced Technology Integration
                         </h3>
