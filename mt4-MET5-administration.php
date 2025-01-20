@@ -236,22 +236,14 @@
                                         <h5 class="mb-0">
                                             <a href="#" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseFour">
                                                 <i class="fas fa-plus"></i>
-<<<<<<< HEAD:mt4-mt5-administration.php
-                                                Can I Integrate MT4/MET5 with External Systems?
-=======
                                                 Can I Integrate MT4/MT5 with External Systems?
->>>>>>> 41ad82d22ca71d92ce702c33eafcb56b2627b63a:mt4-MET5-administration.php
 
                                             </a>
                                         </h5>
                                     </div>
                                     <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordion">
                                         <div class="card-body">
-<<<<<<< HEAD:mt4-mt5-administration.php
-                                        Yes, you can Integrate MT4/MET5 with External Systems such as Trading CRM, Payment gateways, and risk management tools to enhance operational efficiency and provide a seamless user experience.
-=======
                                         Yes, you can Integrate MT4/MT5 with External Systems such as Trading CRM, Payment gateways, and risk management tools to enhance operational efficiency and provide a seamless user experience.
->>>>>>> 41ad82d22ca71d92ce702c33eafcb56b2627b63a:mt4-MET5-administration.php
 
                                         </div>
                                     </div>
