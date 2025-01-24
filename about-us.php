@@ -116,7 +116,7 @@
     <div class="bg-all">
         <div class="container">
             <div class="row">                    
-            <div class="col-lg-12 pt-4">
+            <div class="col-lg-12 pt-4 mb-4">
                     
                  <div><h2 class="welcome-title mt-4">Welcome To</h2> </div>
 
@@ -156,7 +156,7 @@
                     Forex business with confidence, achieving your financial goals while staying ahead in the competitive Forex market.
                      </p>
             </div>
-                    <div class="col-lg-6 d-flex order-1 order-lg-1 mb-5 mb-lg-0" data-aos="zoom-in-left">
+                    <div class="col-lg-6 d-flex order-1 order-lg-1 mb-4 mb-lg-0" data-aos="zoom-in-left">
                         <!-- <div class="about-image-wrapper">                            
                         </div> -->
                         <img src="imgs/forexoutsource design 1.webp " class="img-fluid" alt="Outsourcing Forex Support" style="margin-top: -40px;">
