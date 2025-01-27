@@ -522,7 +522,7 @@
                             <li><i class="fas fa-long-arrow-alt-right"></i> Live Chat and <a class="internal-linking" href="https://forexoutsource.com/email-desk.php">Email Desk</a> for handling all your client queries.
 
                             </li>
-                            <li><i class="fas fa-long-arrow-alt-right"></i> <a class="internal-linking" href="https://forexoutsource.com/mt4-MET5-administration.php"></class>MT4/MET5</a> Administration to keep your platform up and running.
+                            <li><i class="fas fa-long-arrow-alt-right"></i> <a class="internal-linking" href="https://forexoutsource.com/MT4-MET5-administration.php"></class>MT4/MET5</a> Administration to keep your platform up and running.
 
                             </li>
                             <li><i class="fas fa-long-arrow-alt-right"></i> <a class="internal-linking" href="https://forexoutsource.com/crm-and-back-office.php">CRM</a> services to overview client’s activity with the platform, etc.
