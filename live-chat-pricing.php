@@ -95,7 +95,7 @@
 
                 <div class="col-12 col-md-6 col-lg-3">
                     <div
-                        class="card-fonts feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center white-card">
+                        class="card-fonts feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center green-card">
                         <i class="fa-solid fa-globe"></i>
                         <h3>Integration Capabilities
                         </h3>
@@ -106,7 +106,7 @@
 
                 <div class="col-12 col-md-6 col-lg-3">
                     <div
-                        class="card-fonts feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center black-card">
+                        class="card-fonts feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center white-card">
                         <i class="fa-brands fa-rocketchat"></i>
                         <h3>Pre/Post chat Surveys
                         </h3>
@@ -115,7 +115,7 @@
 
                 <div class="col-12 col-md-6 col-lg-3">
                     <div
-                        class="card-fonts feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center green-card">
+                        class="card-fonts feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center black-card">
                         <i class="fa-solid fa-hand-holding-dollar"></i>
                         <h3>Cost Efficiency
                         </h3>
@@ -126,7 +126,7 @@
 
                 <div class="col-12 col-md-6 col-lg-3">
                     <div
-                        class="card-fonts feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center white-card">
+                        class="card-fonts feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center green-card">
                         <i class="fa-solid fa-headset"></i>
                         <h3>Trained Chat Agents
                         </h3>

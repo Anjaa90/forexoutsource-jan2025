@@ -1,4 +1,4 @@
 User-agent: *			
 Disallow:			
 Disallow: /cgi-bin/			
-Sitemap: https://forexoutsource.com/sitemap.xml			
+Sitemap: https://forexoutsource.com/sitemap.xml

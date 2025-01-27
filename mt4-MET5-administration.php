@@ -1,4 +1,4 @@
-<?php $page="mt4-MET5-administration"; include("header.php")?>
+<?php include("header.php")?>
 
 <main>
 <section class="page-header-wrapper">
@@ -243,12 +243,8 @@
                                     </div>
                                     <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordion">
                                         <div class="card-body">
-<<<<<<< HEAD
                                         Backups in MT4/MT5 can be done by regularly copying the server's data folder to an external location,
                                         ensuring data recovery in case of a server failure.
-=======
-                                        Yes, you can Integrate MT4/MET5 with External Systems such as Trading CRM, Payment gateways, and risk management tools to enhance operational efficiency and provide a seamless user experience.
->>>>>>> 97e0b823a3c53d0a049f8fea450abd9147478bba
 
                                         </div>
                                     </div>
@@ -297,24 +293,14 @@
                                         <h5 class="mb-0">
                                             <a href="#" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                                                 <i class="fas fa-plus"></i>
-<<<<<<< HEAD
                                                 Can I Integrate MT4/MT5 with External Systems?
-=======
-                                                How do I Perform Backups in MT4/MET5 Administration?
->>>>>>> 97e0b823a3c53d0a049f8fea450abd9147478bba
 
                                             </a>
                                         </h5>
                                     </div>
                                     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
                                         <div class="card-body">
-<<<<<<< HEAD
                                         Yes, you can Integrate MT4/MT5 with External Systems such as Trading CRM, Payment gateways, and risk management tools to enhance operational efficiency and provide a seamless user experience.
-=======
-                                        Backups in MT4/MET5 can be done by regularly copying the server's data folder to an external location,
-=======
-                                        Backups in MT4/MT5 can be done by regularly copying the server's data folder to an external location,
->>>>>>> 41ad82d22ca71d92ce702c33eafcb56b2627b63a:mt4-MET5-administration.php
                                         ensuring data recovery in case of a server failure.
 
                                         </div>

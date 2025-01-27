@@ -64,13 +64,13 @@ switch($title){
         $url = "https://forexoutsource.com/crm-and-back-office.php";
         break;
 
-    case 'mt4-MET5-administration.php':
+    case 'MT4-MET5-administration.php':
         $title = "MET5 Admin & Server Setup for Forex Brokers | ForexOutsource";
         $description = "Professional MET5 administration and server setup services for Forex brokers and FX companies. Affordable pricing for seamless operations.";
         $keywords = "MT4/MET5 Administration, MT4 Administration, MET5 Administration, MET5 Administration Services, MET5 Administration Solutions, MT4 Administration Services,  MT4 Administration Solutions, MetaTrader 4, MetaTrader 5, MT4 Platforms, MET5 Platforms, ForexOutsourcing, MetaTrader 5 Trading Platforms, MetaTrader 4 Trading Platforms, Technical Support, Plugins and Tools, Meta Trader, Trading Platform, MET5 Trading, Trading Experience, Trade MET5, Metatrader Trading Platform, Platform Meta Trader, Forex Trading, MET5 Solutions, MET5 Services, MT4 Plugin, MET5 Plugin, MET5 System, MT4 System, MET5 Administrator, MT4 Administrator, MET5 Support, MT4 Support, Forex Trading Solutions";
         $name = "MT4-MET5 Administration";
         $alternateName = "MT4-MET5 Administration";
-        $url = "https://forexoutsource.com/mt4-MET5-administration.php";
+        
         break;
     
     case 'remote-support.php':
@@ -118,13 +118,13 @@ switch($title){
         $url = "https://forexoutsource.com/crm-and-back-office-pricing.php";
         break;
 
-    case 'mt4-MET5-administration-pricing.php':
+    case 'MT4-MET5-administration-pricing.php':
         $title = "MT4/MET5 Administration Pricing | Outsourcing for Forex Brokers";
         $description = "Get the best MT4/MET5 Administration services Pricing at just $500/month. Efficient and reliable, our monthly billing makes it easier for you. Don't miss out!";
         $keywords = "MT4/MET5 Administration Pricing, MT4/MET5 Administration Pricing Cost, Cost And Pricing Plans, MT4/MET5 Administration Pricing & Packages, MT4/MET5 Administration, MT4 Administration, MET5 Administration, MET5 Administration Services, MET5 Administration Solutions, MT4 Administration Services, MT4 Administration Solutions, Metatrader 4, Metatrader 5, MT4 Platforms, MET5 Platforms, Forexoutsourcing, Metatrader 5 Trading Platforms, Metatrader 4 Trading Platforms, Technical Support, Plugins And Tools, Meta Trader, Trading Platform, MET5 Trading, Trading Experience, Trade MET5, Metatrader Trading Platform, Platform Meta Trader, Forex Trading, MET5 Solutions, MET5 Services, MT4 Plugin, MET5 Plugin, MET5 System";
         $name = "MT4 MET5 Administration Pricing";
         $alternateName = "MT4 MET5 Administration Pricing";
-        $url = "https://forexoutsource.com/mt4-MET5-administration-pricing.php";
+        $url = "https://forexoutsource.com/MT4-MET5-administration-pricing.php";
         break;
 
                         

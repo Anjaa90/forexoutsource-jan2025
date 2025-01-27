@@ -91,7 +91,7 @@
 
                 <div class="col-12 col-md-6 col-lg-3">
                     <div
-                        class="card-fonts feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center white-card">
+                        class="card-fonts feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center green-card">
                         <i class="fa-solid fa-magnifying-glass-chart"></i>
                         <h3>Reports And Analytics
                         </h3>
@@ -100,7 +100,7 @@
 
                 <div class="col-12 col-md-6 col-lg-3">
                     <div
-                        class="card-fonts feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center black-card">
+                        class="card-fonts feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center white-card">
                         <i class="fa-solid fa-file-invoice"></i>
                         <h3>KYC Management
                         </h3>
@@ -109,7 +109,7 @@
 
                 <div class="col-12 col-md-6 col-lg-3">
                     <div
-                        class="card-fonts feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center green-card">
+                        class="card-fonts feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center black-card">
                         <i class="fa-solid fa-square-plus"></i>
                         <h3>Account Creation
                         </h3>
@@ -120,7 +120,7 @@
 
                 <div class="col-12 col-md-6 col-lg-3">
                     <div
-                        class="card-fonts feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center white-card">
+                        class="card-fonts feature-wrapper d-flex flex-wrap align-items-center align-self-center text-center green-card">
                         <i class="fa-solid fa-people-roof"></i>
                         <h3>AML Management
                         </h3>
