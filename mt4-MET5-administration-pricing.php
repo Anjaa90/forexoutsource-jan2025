@@ -1,4 +1,4 @@
-<?php $page="mt4-MET5-administration-pricing"; include("header.php")?>
+<?php $page="MT4-MET5-administration-pricing"; include("header.php")?>
 <style>
    .card-fonts h3 {
         font-weight: 700;
@@ -18,7 +18,6 @@
             </nav>
         </div>
     </section>
-
     <section class="op-section-team-variation">
             <div class="container">
                 <div class="row">
