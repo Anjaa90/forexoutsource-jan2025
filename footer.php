@@ -17,6 +17,18 @@
         }
 
     }
+
+    @media (min-width:430px) and (max-width:990px) {
+   .fi1{
+    width: 40%;
+   }
+}
+   @media (max-width:429px) {
+    .fi1{
+    width: 60%;
+   }
+}
+
     
    
 </style>
@@ -33,7 +45,7 @@
 
                             <div class="logo-wrapper">
                                 <a href="index.php">
-                                    <img class="img-width" src="imgs/forexoutsoursing logo white green.webp"
+                                    <img class="img-width fi1" src="imgs/forexoutsoursing logo white green.webp"
                                         alt="Footer Logo">
                                 </a>
                             </div>
@@ -206,7 +218,7 @@
 
         <div class="row copyrights-row mx-0">
             <div class="container">
-                <div class="col-lg-5 col-md-6">
+                <div class="col-lg-5 col-md-6 ">
 
                     <p class="text-center"><a href="https://forexoutsource.com/" style="color:#65BC7B;">Forexoutsource</a> © 2023. All rights reserved.</p>
                 </div>

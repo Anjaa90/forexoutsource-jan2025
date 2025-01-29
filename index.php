@@ -382,19 +382,19 @@
                     </span>  over other Service Providers</h2>
                     <div class="row">
                         <div class="col-lg-6 d-flex justify-content-center">
-<div class="fxout-card card">
-    <div class="card-heading">
-        <h3 class="text-center">FOREXOUTSOURCE</h3>
-    </div>
-    <div class="card-body">
-        <ul>
-            <li><img src="imgs/check-mark (1).png" alt="" style="height: 35px;margin-right: 10px;">Dedicated Support Team at Your Disposal</li>
-            <li><img src="imgs/check-mark (1).png" alt="" style="height: 35px;margin-right: 10px;"> Real People, Real Names</li>
-            <li> <img src="imgs/check-mark (1).png" alt="" style="height: 35px;margin-right: 10px;">Trained Professionals from the Forex Industry to handle all tasks efficiently</li>
-            <li> <img src="imgs/check-mark (1).png" alt=""style="height: 35px;margin-right: 10px;">Physical Working Space for enhanced reliability and productivity</li>
-            </ul>
-    </div>
-</div>
+                            <div class="fxout-card card">
+                                <div class="card-heading">
+                                    <h3 class="text-center">FOREXOUTSOURCE</h3>
+                                </div>
+                                <div class="card-body">
+                                    <ul>
+                                        <li><img src="imgs/check-mark (1).png" alt="" style="height: 35px;margin-right: 10px;">Dedicated Support Team at Your Disposal</li>
+                                        <li><img src="imgs/check-mark (1).png" alt="" style="height: 35px;margin-right: 10px;"> Real People, Real Names</li>
+                                        <li> <img src="imgs/check-mark (1).png" alt="" style="height: 35px;margin-right: 10px;">Trained Professionals from the Forex Industry to handle all tasks efficiently</li>
+                                        <li> <img src="imgs/check-mark (1).png" alt=""style="height: 35px;margin-right: 10px;">Physical Working Space for enhanced reliability and productivity</li>
+                                        </ul>
+                                </div>
+                            </div>
                         </div> 
                         <div class="col-lg-6 d-flex justify-content-center">
                             <div class="fxout-card fxout-card2 card">
