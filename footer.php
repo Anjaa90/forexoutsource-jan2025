@@ -220,7 +220,7 @@
             <div class="container">
                 <div class="col-lg-5 col-md-6 ">
 
-                    <p class="text-center"><a href="https://forexoutsource.com/" style="color:#65BC7B;">Forexoutsource</a> © 2023. All rights reserved.</p>
+                    <p class="text-center"><a href="https://forexoutsource.com/" style="color:#65BC7B;">Forexoutsource</a> © 2025. All rights reserved.</p>
                 </div>
                 <!--  -->
 

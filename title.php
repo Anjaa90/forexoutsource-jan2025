@@ -192,8 +192,8 @@ switch($title){
         break;    
         
     case 'privacy-policy.php':
-        $title = "Forex Outsource || Privacy Policy";
-        $description = "";
+        $title = "ForexOutsource | Privacy Policy";
+        $description = "By using our website, you hereby consent to our Privacy Policy and agree to its terms.";
         $keywords = "";
         $name = "Privacy Policy";
         $alternateName = "Privacy Policy";
@@ -201,8 +201,8 @@ switch($title){
         break;
             
     case 'terms-and-conditions.php':
-        $title = "Forex Outsource || Terms and Conditions";
-        $description = "";
+        $title = "ForexOutsource | Terms And Conditions";
+        $description = "We employ the use of cookies. By accessing ForexOutsource, you agreed to use cookies in agreement with the ForexOutsource's Privacy Policy.";
         $keywords = "";
         $name = "Terms and conditions";
         $alternateName = "Terms and conditions";
@@ -210,12 +210,21 @@ switch($title){
         break;
         
     case 'disclaimer.php':
-        $title = "Forex Outsource || Disclaimer";
-        $description = "";
+        $title = "ForexOutsource | Disclamier";
+        $description = "If you require any more information or have any questions about our site's disclaimer, please feel free to contact us by email at support@forexoutsource.com.";
         $keywords = "";
         $name = "Disclaimer";
         $alternateName = "Disclaimer";
-        $url = "Disclaimer";
+        $url = "https://forexoutsource.com/disclaimer.php";
+        break;
+
+    case 'copyright.php':
+        $title = "Copyright | Forex Outsource | Outsource Services";
+        $description = "Forex Outsource, the Service Provider, functions as an outsourcing service, operating with a commitment to transparency and professional standards.";
+        $keywords = "";
+        $name = "Copyright";
+        $alternateName = "Copyright";
+        $url = "https://forexoutsource.com/copyright.php";
         break;
     
     default:
