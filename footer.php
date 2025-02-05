@@ -308,13 +308,36 @@ document.body.scrollTop = 0; // For Safari
 document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
 }
 </script>
-<script src="js/jquery.min.js"></script>
+<!-- <script src="js/jquery.min.js"></script>
 <script src="js/popper.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/aos.js"></script>
 <script src="js/slick.min.js"></script>
 <script src="js/main.js"></script>
+<script src="https://kit.fontawesome.com/d20d9f0263.js" crossorigin="anonymous"></script> -->
+
+<!-- jQuery (Latest Version) -->
+<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+
+<!-- Popper.js (Required for Bootstrap) -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.11.8/umd/popper.min.js"></script>
+
+<!-- Bootstrap (Latest Version) -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
+<!-- AOS (Animate On Scroll) -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+
+<!-- Slick Slider -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+
+<!-- Your Custom Script (Keep Local) -->
+<script src="js/main.js"></script>
+
+<!-- FontAwesome (Using Your Kit) -->
 <script src="https://kit.fontawesome.com/d20d9f0263.js" crossorigin="anonymous"></script>
+
+
 </body>
 
 </html>
