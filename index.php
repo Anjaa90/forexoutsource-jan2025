@@ -750,127 +750,117 @@
                 </div>
             </div>
         </section>
+        
         <section class="" style="padding-top: 100px;">
-            <div class="container">
-                <h2 style="text-align: center;">Frequently Asked Questions</h2>
-                <div class="row">
-                    <div class="col-12 mb-5">
-                        <div id="accordion">
-                            <div class="card">
-                                <div class="card-header" id="headingOne">
-                                    <h5 class="mb-0">
-                                        <a href="#" class="btn btn-link" data-toggle="collapse"
-                                            data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                            <i class="fas fa-plus"></i>
-                                            What services does ForexOutsource offer for Forex brokers?
-                                        </a>
-                                    </h5>
-                                </div>
+    <div class="container">
+        <h2 style="text-align: center;">Frequently Asked Questions</h2>
+        <div class="row">
+            <div class="col-12 mb-5">
+                <div id="accordion"> <!-- Single Accordion Container -->
 
-                                <div id="collapseOne" class="collapse show" aria-labelledby="headingOne"
-                                    data-parent="#accordion">
-                                    <div class="card-body">
-                                    We offer a wide range of outsourcing services for Forex brokers, including back office support, KYC management, AML management, account opening services, reporting, and technical support. We also provide live chat services, Email, and Phone Inbound Services for Forex brokerage, ensuring seamless communication and operational efficiency..
-
-                                    </div>
-                                </div>
-                            </div>
-                            <div id="accordion">
-                                <div class="card">
-                                    <div class="card-header" id="headingTwo">
-                                        <h5 class="mb-0">
-                                            <a href="#" class="btn btn-link collapsed" data-toggle="collapse"
-                                                data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                <i class="fas fa-plus"></i>
-                                                How can ForexOutsource help my Forex business to grow?
-
-    
-                                            </a>
-                                        </h5>
-                                    </div>
-    
-                                    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo"
-                                        data-parent="#accordion">
-                                        <div class="card-body">
-                                        Partnering with ForexOutsource provides expert outsourcing support, reducing complexities, ensuring compliance, and enhancing customer service. With live chat services, Email, and Phone Inbound Services for Forex brokerage, we handle operations while you focus on growing your Forex business.
-    
-                                        </div>
-                                    </div>
-                                </div>
-                                <div id="accordion">
-                                    <div class="card">
-                                        <div class="card-header" id="headingThree">
-                                            <h5 class="mb-0">
-                                                <a href="#" class="btn btn-link collapsed" data-toggle="collapse"
-                                                    data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                    <i class="fas fa-plus"></i>
-                                                    Does ForexOutsource provide 24/7 support for Forex brokers?
-
-        
-                                                </a>
-                                            </h5>
-                                        </div>
-        
-                                        <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
-                                            data-parent="#accordion">
-                                            <div class="card-body">
-                                            Yes, we offer 24/7 support to ensure your Forex business runs smoothly. Whether it's technical support, client queries, or operational issues, our team is always ready to assist, no matter the time zone.
-
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div id="accordion">
-                                        <div class="card">
-                                            <div class="card-header" id="headingFour">
-                                                <h5 class="mb-0">
-                                                    <a href="#" class="btn btn-link collapsed" data-toggle="collapse"
-                                                        data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                                        <i class="fas fa-plus"></i>
-                                                        Can ForexOutsource handle multiple languages and timezones?
-
-            
-                                                    </a>
-                                                </h5>
-                                            </div>
-            
-                                            <div id="collapseFour" class="collapse" aria-labelledby="headingFour"
-                                                data-parent="#accordion">
-                                                <div class="card-body">
-                                                Yes, our team offers multiple language support and operates across different time zones to provide seamless assistance to clients worldwide. This ensures that your Forex business remains responsive to global clients at all times.
-
-                                                </div>
-                                            </div>
-                                        </div>
+                    <div class="card">
+                        <div class="card-header" id="headingOne">
+                            <h5 class="mb-0">
+                                <a href="#" class="btn btn-link" data-toggle="collapse"
+                                    data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    <i class="fas fa-plus"></i>
+                                    What services does ForexOutsource offer for Forex brokers?
+                                </a>
+                            </h5>
                         </div>
-                        <div id="accordion">
-                            <div class="card">
-                                <div class="card-header" id="headingFive">
-                                    <h5 class="mb-0">
-                                        <a href="#" class="btn btn-link collapsed" data-toggle="collapse"
-                                            data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                            <i class="fas fa-plus"></i>
-                                            What are the cost-saving benefits of outsourcing services?
-
-                                        </a>
-                                    </h5>
-                                </div>
-
-                                <div id="collapseFive" class="collapse" aria-labelledby="headingFive"
-                                    data-parent="#accordion">
-                                    <div class="card-body">
-                                        Outsourcing services can significantly reduce costs for businesses. By outsourcing certain functions or tasks, companies can avoid expenses associated with hiring and training full-time employees, providing office space and equipment, and offering employee benefits. Additionally, outsourcing service providers often operate in countries with lower labor costs, further driving down expenses.
-                                    </div>
-                                </div>
+                        <div id="collapseOne" class="collapse show" aria-labelledby="headingOne"
+                            data-parent="#accordion">
+                            <div class="card-body">
+                                We offer a wide range of outsourcing services for Forex brokers, including back-office support, KYC management, AML management, and more.
                             </div>
-            </div>
+                        </div>
                     </div>
-                  
-                </div>
+
+                    <div class="card">
+                        <div class="card-header" id="headingTwo">
+                            <h5 class="mb-0">
+                                <a href="#" class="btn btn-link collapsed" data-toggle="collapse"
+                                    data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    <i class="fas fa-plus"></i>
+                                    How can ForexOutsource help my Forex business to grow?
+                                </a>
+                            </h5>
+                        </div>
+                        <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo"
+                            data-parent="#accordion">
+                            <div class="card-body">
+                                Partnering with ForexOutsource provides expert outsourcing support, ensuring compliance and enhancing customer service.
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-header" id="headingThree">
+                            <h5 class="mb-0">
+                                <a href="#" class="btn btn-link collapsed" data-toggle="collapse"
+                                    data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    <i class="fas fa-plus"></i>
+                                    Does ForexOutsource provide 24/7 support for Forex brokers?
+                                </a>
+                            </h5>
+                        </div>
+                        <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
+                            data-parent="#accordion">
+                            <div class="card-body">
+                                Yes, we offer 24/7 support to ensure your Forex business runs smoothly.
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-header" id="headingFour">
+                            <h5 class="mb-0">
+                                <a href="#" class="btn btn-link collapsed" data-toggle="collapse"
+                                    data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                    <i class="fas fa-plus"></i>
+                                    Can ForexOutsource handle multiple languages and time zones?
+                                </a>
+                            </h5>
+                        </div>
+                        <div id="collapseFour" class="collapse" aria-labelledby="headingFour"
+                            data-parent="#accordion">
+                            <div class="card-body">
+                                Yes, our team offers multilingual support and operates across different time zones.
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-header" id="headingFive">
+                            <h5 class="mb-0">
+                                <a href="#" class="btn btn-link collapsed" data-toggle="collapse"
+                                    data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                    <i class="fas fa-plus"></i>
+                                    What are the cost-saving benefits of outsourcing services?
+                                </a>
+                            </h5>
+                        </div>
+                        <div id="collapseFive" class="collapse" aria-labelledby="headingFive"
+                            data-parent="#accordion">
+                            <div class="card-body">
+                                Outsourcing reduces costs by eliminating expenses related to hiring, training, and infrastructure.
+                            </div>
+                        </div>
+                    </div>
+
+                </div> <!-- End of Accordion -->
             </div>
-        </section>
+        </div>
+    </div>
+</section>
 
 
-        
+
+        <!-- Bootstrap JS & jQuery -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
  
 
         

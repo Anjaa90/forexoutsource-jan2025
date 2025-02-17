@@ -283,4 +283,10 @@ a:hover{
 
 
 </header>
+
+      <!-- Bootstrap JS & jQuery -->
+      <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
 <button onclick="topFunction()" id="myBtn" title="Go to top" class="mb-5"><i class="fa-solid fa-arrow-up"></i></button>
