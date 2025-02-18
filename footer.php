@@ -84,7 +84,7 @@
             <div class="col-lg-9">
                 <div class="row">
 
-                    <div class="col-12 col-md-2" style="padding-right: 4px;">
+                    <div class="col-12 col-md-3" style="padding-left: -5px;">
                         <div class="footer-column">
                             <h3>Quick Links</h3>
                             <ul >
@@ -113,7 +113,7 @@
                  
                     </div>
                     
-                    <div class="col-12 col-md-3">
+                    <div class="col-12 col-md-4 ">
                         <div class="footer-column">
                             <h3>Support Services</h3>
                             <ul>
@@ -127,7 +127,7 @@
                                     <a href="phone-inbound.php">Phone Inbound</a>
                                 </li>
                                 <li>
-                                    <a href="crm-and-back-office.php">CRM and Back-Office</a>
+                                    <a href="back-office-oursourcing.php">Back Office Outsourcing</a>
                                 </li>
                                 <li>
                                     <a href="MT4-MET5-administration.php">MT4/MET5 Administration</a>
@@ -138,7 +138,7 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="col-12 col-md-4">
+                    <div class="col-12 col-md-4 ">
                         <div class="footer-column">
                             <h3>Packages</h3>
                             <ul>
@@ -152,7 +152,7 @@
                                     <a href="phone-inbound-pricing.php">Phone Inbound Pricing</a>
                                 </li>
                                 <li>
-                                    <a href="back-office-oursourcing.php">Back Office Outsourcing</a>
+                                    <a href="back-office-oursourcing-pricing.php">Back Office Outsourcing Pricing</a>
                                 </li>
                                 <li>
                                     <a href="MT4-MET5-administration-pricing.php">MT4/MET5 Administration Pricing</a>
@@ -163,7 +163,7 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="col-12 col-md-3">
+                    <!-- <div class="col-12 col-md-3">
                         <div class="footer-column">
                             <h3>Our Solutions</h3>
                             <ul>
@@ -184,7 +184,7 @@
                                 </li>
                             </ul>
                         </div>
-                    </div>
+                    </div> -->
                  
                 </div>
             </div>
